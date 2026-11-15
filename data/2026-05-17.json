@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-17",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "15:15",
+      "meeting": "Hamilton",
+      "name": "Sun's 'Save Our Bets' Handicap",
+      "class": "4",
+      "distance": "6f 6y",
+      "going": "Good",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Red Spells Danger",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.08,
+          "profit": 0.11,
+          "bank": 8.36
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Hamilton",
+      "name": "Sky Bet Extra Places Handicap (GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 5f 16y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ride The Thunder",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Ray Dawson",
+          "trainer": "R Varian",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.08,
+          "profit": -0.02,
+          "bank": 8.34
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Hamilton",
+      "name": "Sky Bet Build A Bet Handicap",
+      "class": "3",
+      "distance": "5f 7y",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jordan Electrics",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 8.26
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Hamilton",
+      "name": "Sky Bet Price Boosts Fillies' Handicap",
+      "class": "3",
+      "distance": "1m 1f 35y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Seren Star",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Tom Marquand",
+          "trainer": "W J Haggas",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.08,
+          "profit": 0.0,
+          "bank": 8.26
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Hamilton",
+      "name": "Sky Bet For The Fans Handicap",
+      "class": "4",
+      "distance": "6f 6y",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Montezuma",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 8.18
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Hamilton",
+      "name": "Flutter Proud To Support Young Lives Vs Cancer Apprentice Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 3f 15y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Letsbefrank",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.08,
+          "profit": 0.12,
+          "bank": 8.3
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 6,
+    "races": 6,
+    "settled": 6,
+    "won": 2,
+    "placed": 2,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.48,
+  "returned": 0.53,
+  "profit": 0.05,
+  "bank": {
+    "start": 8.25,
+    "end": 8.3,
+    "next_stake": 0.08,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

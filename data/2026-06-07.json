@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-07",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "13:42",
+      "meeting": "Perth",
+      "name": "Sun Racing The Home Of Racing Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 47y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Blondina",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "David Noonan",
+          "trainer": "A Nicol",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 7.83
+        }
+      ]
+    },
+    {
+      "time": "14:17",
+      "meeting": "Perth",
+      "name": "Scone Palace International Horse Trials Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "King Sacre",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "James Davies",
+          "trainer": "N J Hawke",
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 7.75
+        }
+      ]
+    },
+    {
+      "time": "15:27",
+      "meeting": "Perth",
+      "name": "Perth Gold Cup Handicap Chase (GBB Race)",
+      "class": "2",
+      "distance": "2m 7f 180y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Light N Strike",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "James Bowen",
+          "trainer": "M Bowen",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 7.67
+        }
+      ]
+    },
+    {
+      "time": "16:37",
+      "meeting": "Perth",
+      "name": "IM Group Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 207y",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Leader Wing",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.08,
+          "profit": -0.03,
+          "bank": 7.64
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 0,
+    "placed": 1,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.32,
+  "returned": 0.05,
+  "profit": -0.27,
+  "bank": {
+    "start": 7.91,
+    "end": 7.64,
+    "next_stake": 0.08,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

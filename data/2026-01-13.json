@@ -1,0 +1,122 @@
+{
+  "date": "2026-01-13",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "12:48",
+      "meeting": "Ayr",
+      "name": "Book Day Dancin On 11 April Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m",
+      "going": "Heavy (Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bras D'or",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Jack Tudor",
+          "trainer": "D Pipe",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": -0.03,
+          "bank": 10.02
+        }
+      ]
+    },
+    {
+      "time": "13:48",
+      "meeting": "Ayr",
+      "name": "Book Your Celebration At westernhousehotel.co.uk Handicap Hurdle",
+      "class": "5",
+      "distance": "3m 70y",
+      "going": "Heavy (Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kelvin Forlonge",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "P W Wadge",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": -0.02,
+          "bank": 10.0
+        }
+      ]
+    },
+    {
+      "time": "15:18",
+      "meeting": "Ayr",
+      "name": "Dream Weddings At Western House Hotel Handicap Hurdle",
+      "class": "4",
+      "distance": "2m",
+      "going": "Heavy (Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tread Softly Now",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Alan Doyle",
+          "trainer": "I A Duncan",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 9.9
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ayr",
+      "name": "Sunday Roast At Western House Hotel Open NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "2m",
+      "going": "Heavy (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kingsman Mail",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Bruce Lynn",
+          "trainer": "N W Alexander",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": -0.01,
+          "bank": 9.89
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 0,
+    "placed": 3,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.4,
+  "returned": 0.24,
+  "profit": -0.16,
+  "bank": {
+    "start": 10.05,
+    "end": 9.89,
+    "next_stake": 0.1,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

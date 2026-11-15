@@ -1,0 +1,218 @@
+{
+  "date": "2026-02-13",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "name": "Johnston Smillie Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 51y",
+      "going": "Heavy",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kocktail Bleu",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Freddie Gordon",
+          "trainer": "C Gordon",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": -0.04,
+          "bank": 10.49
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Chepstow",
+      "name": "fairplaybet.co.uk Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Soft (Heavy in places)",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bossman Jack",
+          "stars": 5,
+          "odds": "1/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.1,
+          "profit": 0.02,
+          "bank": 10.51
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Kelso",
+      "name": "Albert Bartlett Triple Crown Series Conditional Jockeys' Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 6f 151y",
+      "going": "Heavy",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Judicial Deference",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Ben Smith",
+          "trainer": "O Greenall & J Guerriero",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.11,
+          "profit": 0.08,
+          "bank": 10.59
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Kelso",
+      "name": "Racing TV Club Day Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 51y",
+      "going": "Heavy",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bertie's Ballet",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "B S Hughes",
+          "trainer": "Mrs Dianne Sayer",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.48
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Chepstow",
+      "name": "Fairplay Lets Bet On It! Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 7f 136y",
+      "going": "Soft (Heavy in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Big Reveal",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Thomas Bellamy",
+          "trainer": "G Harris",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.1,
+          "profit": 0.17,
+          "bank": 10.65
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "name": "Dunraven Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 100y",
+      "going": "Soft (Heavy in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Harbour Light",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Toby McCain-Mitchell",
+          "trainer": "N & W Twiston-Davies",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": 0.01,
+          "bank": 10.66
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Kelso",
+      "name": "Racing TV Open Maiden NH Flat Race (GBB Race)",
+      "class": "4",
+      "distance": "2m 51y",
+      "going": "Heavy",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lion Rose Sivola",
+          "stars": 5,
+          "odds": "4/11",
+          "jockey": "Jonjo O'Neill Jr.",
+          "trainer": "J & A O'Neill",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": -0.05,
+          "bank": 10.61
+        }
+      ]
+    },
+    {
+      "time": "16:55",
+      "meeting": "Chepstow",
+      "name": "Chepstow 9th August Centenary Raceday Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 131y",
+      "going": "Soft (Heavy in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Delta Blues Belle",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.5
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 8,
+    "races": 8,
+    "settled": 8,
+    "won": 3,
+    "placed": 3,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.86,
+  "returned": 0.83,
+  "profit": -0.03,
+  "bank": {
+    "start": 10.53,
+    "end": 10.5,
+    "next_stake": 0.1,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

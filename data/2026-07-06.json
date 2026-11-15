@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-06",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "name": "EBF Stallions Restricted Novice Stakes (GBB Race)",
+      "class": "4",
+      "distance": "7f 50y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ten Clarets",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "C Lee",
+          "trainer": "K R Burke",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.07,
+          "profit": -0.03,
+          "bank": 7.08
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "name": "racingtv.com/freetrial Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Condotti",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "C Lee",
+          "trainer": "H Palmer",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.07,
+          "profit": 0.0,
+          "bank": 7.08
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "name": "Watch Racing TV Free For 31 Days Handicap",
+      "class": "5",
+      "distance": "7f 50y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Slack Bob",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "C Lee",
+          "trainer": "E A L Dunlop",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 7.01
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "name": "Try Racing TV For Free Now Handicap",
+      "class": "6",
+      "distance": "1m",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hunterian",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "S D Bowen",
+          "trainer": "C Johnston",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 6.94
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "name": "Ladbrokes Get More With Racing Bet Builder Ayr Silver Cup Trial Handicap",
+      "class": "4",
+      "distance": "6f",
+      "going": "Good",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rousing Encore",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "J P Sullivan",
+          "trainer": "Mrs R Carr",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.07,
+          "profit": -0.01,
+          "bank": 6.93
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Ayr",
+      "name": "25% Off Lunch At Western House Hotel Handicap",
+      "class": "6",
+      "distance": "6f",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Keep The Gold",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Connor Beasley",
+          "trainer": "M Dods",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 6.86
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Ayr",
+      "name": "Dream Weddings At Western House Hotel Handicap",
+      "class": "5",
+      "distance": "1m 5f 26y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Is She Now",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "D Nolan",
+          "trainer": "D Bourke",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 6.79
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 7,
+    "races": 7,
+    "settled": 7,
+    "won": 0,
+    "placed": 3,
+    "lost": 4,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.49,
+  "returned": 0.17,
+  "profit": -0.32,
+  "bank": {
+    "start": 7.11,
+    "end": 6.79,
+    "next_stake": 0.07,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

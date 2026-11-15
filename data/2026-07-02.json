@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-02",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "13:18",
+      "meeting": "Perth",
+      "name": "Horizon Group Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Liberty Coach",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Harry Cobden",
+          "trainer": "J & S Quinn",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.07,
+          "profit": -0.02,
+          "bank": 7.32
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Perth",
+      "name": "PWA Architecture Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 35y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sonyourastar",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 7.25
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Perth",
+      "name": "AEJ Facilities Management Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 207y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Loro White",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 2,
+    "won": 0,
+    "placed": 1,
+    "lost": 1,
+    "nr": 1,
+    "pending": 0
+  },
+  "staked": 0.14,
+  "returned": 0.05,
+  "profit": -0.09,
+  "bank": {
+    "start": 7.34,
+    "end": 7.25,
+    "next_stake": 0.07,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

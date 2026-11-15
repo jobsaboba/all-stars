@@ -1,0 +1,146 @@
+{
+  "date": "2026-03-26",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "14:50",
+      "meeting": "Chepstow",
+      "name": "Glidevale Protect Handicap Chase",
+      "class": "5",
+      "distance": "2m 7f 136y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Just In A Bit",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Toby Wynne",
+          "trainer": "Mrs M Rowley",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": -0.01,
+          "bank": 10.34
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "meeting": "Chepstow",
+      "name": "Stephens Industries EPDM Flat Roofing Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "3m 6f 136y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Gold Emery",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Theo Gillard",
+          "trainer": "D McCain Jnr",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": 0.06,
+          "bank": 10.4
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "name": "DB Roofing Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Le Fabuleux Buck's",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "S Bowen",
+          "trainer": "M Keighley",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.3
+        }
+      ]
+    },
+    {
+      "time": "16:50",
+      "meeting": "Chepstow",
+      "name": "NFRC South West Roofing Industry Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 131y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Crystello",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Paul O'Brien",
+          "trainer": "Harry Derham",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.2
+        }
+      ]
+    },
+    {
+      "time": "17:20",
+      "meeting": "Chepstow",
+      "name": "SIG Roofing Ltd Open NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stick To The Board",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Harry Cobden",
+          "trainer": "P F Nicholls",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.1,
+          "profit": 0.06,
+          "bank": 10.26
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 1,
+    "placed": 2,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.5,
+  "returned": 0.41,
+  "profit": -0.09,
+  "bank": {
+    "start": 10.35,
+    "end": 10.26,
+    "next_stake": 0.1,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "date": "2026-01-27",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Chepstow",
+      "name": "Floyd's Turfcare & Weed Solutions Ltd Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 100y",
+      "going": "Soft (Heavy in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Good For You",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "C Gethings",
+          "trainer": "Mrs J Williams",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:02",
+      "meeting": "Chepstow",
+      "name": "Albert Bartlett Triple Crown Series Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 3f 100y",
+      "going": "Soft (Heavy in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "High Tea",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "J J Burke",
+          "trainer": "K Bailey & M Nicholls",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 9.79
+        }
+      ]
+    },
+    {
+      "time": "15:12",
+      "meeting": "Chepstow",
+      "name": "Taffy Jenkins Memorial Mares' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Soft (Heavy in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Charisma Cat",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "Tom Cannon",
+          "trainer": "A King",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.1,
+          "profit": 0.04,
+          "bank": 9.83
+        }
+      ]
+    },
+    {
+      "time": "15:47",
+      "meeting": "Chepstow",
+      "name": "Floyd's Turfcare & Weed Solutions Ltd Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 7f 136y",
+      "going": "Soft (Heavy in places)",
+      "runners": 16,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Genietoile",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Toby McCain-Mitchell",
+          "trainer": "Miss R Curtis",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": 0.02,
+          "bank": 9.85
+        }
+      ]
+    },
+    {
+      "time": "16:22",
+      "meeting": "Chepstow",
+      "name": "LSL Racing Sales & Syndication NH Flat Race (Conditional & Amateur Jockeys) (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Soft (Heavy in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Keltype",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Freddie Gordon",
+          "trainer": "Miss R Curtis",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.1,
+          "profit": 0.39,
+          "bank": 10.24
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 4,
+    "won": 2,
+    "placed": 1,
+    "lost": 1,
+    "nr": 1,
+    "pending": 0
+  },
+  "staked": 0.4,
+  "returned": 0.75,
+  "profit": 0.35,
+  "bank": {
+    "start": 9.89,
+    "end": 10.24,
+    "next_stake": 0.1,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

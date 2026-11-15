@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-07",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "name": "Champagne Pommery Cuvee Louise Gold Cup Handicap",
+      "class": "4",
+      "distance": "7f 15y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Gweedore",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "T Eaves",
+          "trainer": "K Scott",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 6.45
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.07,
+  "returned": 0.0,
+  "profit": -0.07,
+  "bank": {
+    "start": 6.52,
+    "end": 6.45,
+    "next_stake": 0.06,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

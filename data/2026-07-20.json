@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-20",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "name": "Fergie & Myra Happel Ayr Gold Cup Trial Handicap",
+      "class": "3",
+      "distance": "6f",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jordan Electrics",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.07,
+          "profit": 0.12,
+          "bank": 7.04
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "name": "John Hamilton ScotRail Celebration Handicap",
+      "class": "5",
+      "distance": "1m",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Benacre",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Oliver Stammers",
+          "trainer": "C Johnston",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 6.97
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "name": "Try Racing TV For Free Now Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Firm",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Motawaared",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 6.9
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.21,
+  "returned": 0.19,
+  "profit": -0.02,
+  "bank": {
+    "start": 6.92,
+    "end": 6.9,
+    "next_stake": 0.07,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

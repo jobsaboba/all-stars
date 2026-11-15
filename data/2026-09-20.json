@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-20",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "14:00",
+      "meeting": "Hamilton",
+      "name": "Heineken Zero Drink Responsibly At Hamilton Park Handicap",
+      "class": "6",
+      "distance": "5f 7y",
+      "going": "Heavy (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Impressor",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Connor Beasley",
+          "trainer": "Phillip Makin",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.06,
+          "profit": 0.09,
+          "bank": 5.82
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Hamilton",
+      "name": "Big Drew Hunter Memorial Handicap",
+      "class": "4",
+      "distance": "1m 68y",
+      "going": "Heavy (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Monoceros",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "A Mullen",
+          "trainer": "I Jardine",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.06,
+          "profit": -0.06,
+          "bank": 5.76
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Hamilton",
+      "name": "Every Race Live On Racing TV Handicap",
+      "class": "5",
+      "distance": "1m 1f 35y",
+      "going": "Heavy (Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Motawaared",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.06,
+          "profit": -0.06,
+          "bank": 5.7
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.18,
+  "returned": 0.15,
+  "profit": -0.03,
+  "bank": {
+    "start": 5.73,
+    "end": 5.7,
+    "next_stake": 0.06,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

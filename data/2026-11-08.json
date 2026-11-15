@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-08",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "12:00",
+      "meeting": "Naas",
+      "name": "Mongey Communications Novice Handicap Chase",
+      "class": "",
+      "distance": "2m 4f 40y",
+      "going": "Good to Yielding",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Moylussa",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Daniel King",
+          "trainer": "M Magnussen",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.05,
+          "profit": -0.01,
+          "bank": 5.03
+        }
+      ]
+    },
+    {
+      "time": "12:30",
+      "meeting": "Naas",
+      "name": "Cavan Developments Supporting St Marys GAA Maiden Hurdle",
+      "class": "",
+      "distance": "2m",
+      "going": "Good to Yielding",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Mourne Rambler",
+          "stars": 5,
+          "odds": "1/4",
+          "jockey": "Sam Ewing",
+          "trainer": "N Meade",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.01,
+          "bank": 5.04
+        }
+      ]
+    },
+    {
+      "time": "12:50",
+      "meeting": "Ffos Las",
+      "name": "Blackmores Build Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tap Tap Shamie",
+          "stars": 5,
+          "odds": "8/15",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.05,
+          "profit": -0.02,
+          "bank": 5.02
+        }
+      ]
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "name": "Bridge Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Karaka De Thaix",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "P F Nicholls",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 4.97
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Naas",
+      "name": "Irish Stallion Farms EBF Maiden Hurdle",
+      "class": "",
+      "distance": "2m 2f 200y",
+      "going": "Good to Yielding",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Minella Machine",
+          "stars": 5,
+          "odds": "4/9",
+          "jockey": "Darragh O'Keeffe",
+          "trainer": "H De Bromhead",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.01,
+          "bank": 4.98
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Sandown",
+      "name": "Oddschecker Mares' Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 3f 178y",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Limerick Lass",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "J J Burke",
+          "trainer": "A J Honeyball",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:52",
+      "meeting": "Ffos Las",
+      "name": "Dandara Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 7f 191y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Blue In The West",
+          "stars": 5,
+          "odds": "25/1",
+          "jockey": "Shane Quinlan",
+          "trainer": "B Lund",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 4.93
+        }
+      ]
+    },
+    {
+      "time": "14:04",
+      "meeting": "Naas",
+      "name": "Tote Guarantee, Never Beaten By SP Brown Lad Handicap Hurdle (Listed)",
+      "class": "1",
+      "distance": "2m 4f",
+      "going": "Good to Yielding",
+      "runners": 20,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ballybawn Belter",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Peter Smithers",
+          "trainer": "Liz Doyle",
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 4.88
+        }
+      ]
+    },
+    {
+      "time": "14:27",
+      "meeting": "Ffos Las",
+      "name": "Golwg Gwendraeth Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Corner Forward",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Harry Cobden",
+          "trainer": "A J Honeyball",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.04,
+          "bank": 4.92
+        }
+      ]
+    },
+    {
+      "time": "15:02",
+      "meeting": "Ffos Las",
+      "name": "Fedwen Tentage Open NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "1m 7f 182y",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Little Patience",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.03,
+          "bank": 4.95
+        }
+      ]
+    },
+    {
+      "time": "15:13",
+      "meeting": "Naas",
+      "name": "Into Kildare Beginners Chase",
+      "class": "",
+      "distance": "2m",
+      "going": "Good to Yielding",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Anzadam",
+          "stars": 5,
+          "odds": "8/13",
+          "jockey": "Paul Townend",
+          "trainer": "W P Mullins",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.02,
+          "bank": 4.97
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Sandown",
+      "name": "Oddschecker Bet Builder Novices' Handicap Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f 178y",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Port Station",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "J J Burke",
+          "trainer": "James Owen",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.07,
+          "bank": 5.04
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Naas",
+      "name": "Bet With Tote On Racing & Sports Irish EBF Mares (Pro/Am) Flat Race",
+      "class": "",
+      "distance": "2m",
+      "going": "Good to Yielding",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ballydonagh Girl",
+          "stars": 5,
+          "odds": "6/5",
+          "jockey": "Mr H C Swan",
+          "trainer": "G Elliott",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.04,
+          "bank": 5.08
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 13,
+    "races": 13,
+    "settled": 12,
+    "won": 7,
+    "placed": 2,
+    "lost": 3,
+    "nr": 1,
+    "pending": 0
+  },
+  "staked": 0.6,
+  "returned": 0.64,
+  "profit": 0.04,
+  "bank": {
+    "start": 5.04,
+    "end": 5.08,
+    "next_stake": 0.05,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}

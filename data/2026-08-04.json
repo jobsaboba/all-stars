@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-04",
+  "updated": "2026-11-15T15:39:45+0000",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "name": "Ken Meredith Memorial Race Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 80y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bird Of War",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Harry Vigors",
+          "trainer": "C Hills",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.07,
+          "profit": -0.07,
+          "bank": 6.43
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ffos Las",
+      "name": "Ken Meredith Memorial Race Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 80y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kaleidoscope Eyes",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "R P Downey",
+          "trainer": "B J Llewellyn",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.06,
+          "profit": 0.11,
+          "bank": 6.54
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ffos Las",
+      "name": "Dandara Homes Maiden Stakes (GBB Race)",
+      "class": "4",
+      "distance": "1m",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Arbaawy",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Billy Loughnane",
+          "trainer": "J Butler",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.07,
+          "profit": -0.02,
+          "bank": 6.52
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Ffos Las",
+      "name": "Dandara Homes Handicap",
+      "class": "6",
+      "distance": "1m 3f 209y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Grindleton",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Tom Marquand",
+          "trainer": "D & C Kubler",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.07,
+          "profit": 0.0,
+          "bank": 6.52
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 1,
+    "placed": 2,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.27,
+  "returned": 0.29,
+  "profit": 0.02,
+  "bank": {
+    "start": 6.5,
+    "end": 6.52,
+    "next_stake": 0.07,
+    "season_start": 10.0,
+    "season_end": 5.8
+  }
+}
