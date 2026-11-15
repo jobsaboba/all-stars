@@ -144,7 +144,9 @@
 <footer class="hint">
   Every <b style="color:var(--gold)">★★★★★</b> horse in races with <b>8+ runners</b> — that's it.
   <b style="color:var(--sky2)">Blue box</b>: the odds. The result — WIN · PLACE · LOST — lands next to each selection as it comes in.<br>
-  All Stars' own ledger: £10 bank · 1% of the bank on every pick · each-way at Ladbrokes: ½ win · ½ place at 1/5 odds.
+  All Stars' ledger: £10 bank · <b>Jacobs Ladder stakes</b> — 10p a unit, ladder <b>1-2-2</b>, first bet <b>30p</b> ·
+  a loss climbs the ladder, a win shrinks it, a new bank high resets to 1-2-2 ·
+  each-way at Ladbrokes: ½ win · ½ place at 1/5 odds.
   <span id="updated" style="display:block"></span>
 </footer>
 
@@ -212,18 +214,24 @@ function renderStats(){
 
 function moneyLine(p){
   if(p.res === "NR") return '<span class="res NR">VOID</span><span>never ran — no stake on it</span>';
-  if(p.res === "WIN") return '<span class="res WIN">WON</span>' +
-    '<span class="money pos">' + gbp(p.stake) + ' → +' + gbp(p.profit) + '</span>' +
-    '<span>bank ' + gbp(p.bank) + '</span>';
-  if(p.res === "PLACE") return '<span class="res PLACE">PLACE</span>' +
-    (p.profit >= 0
-      ? '<span class="money pos">' + gbp(p.stake) + ' → +' + gbp(p.profit) + '</span>'
-      : '<span class="money neg">' + gbp(p.stake) + ' → −' + gbp(p.profit) + '</span>') +
-    '<span>bank ' + gbp(p.bank) + '</span>';
-  if(p.res === "LOSE") return '<span class="res LOSE">LOST</span>' +
-    '<span class="money neg">−' + gbp(p.stake) + '</span>' +
-    '<span>bank ' + gbp(p.bank) + '</span>';
-  return '<span class="res PEND">TO RUN</span><span>1% of the bank at the off</span>';
+  if(p.profit != null && p.stake != null){
+    if(p.res === "WIN") return '<span class="res WIN">WON</span>' +
+      '<span class="money pos">' + gbp(p.stake) + ' → +' + gbp(p.profit) + '</span>' +
+      '<span>bank ' + gbp(p.bank) + '</span>';
+    if(p.res === "PLACE") return '<span class="res PLACE">PLACE</span>' +
+      (p.profit >= 0
+        ? '<span class="money pos">' + gbp(p.stake) + ' → +' + gbp(p.profit) + '</span>'
+        : '<span class="money neg">' + gbp(p.stake) + ' → −' + gbp(p.profit) + '</span>') +
+      '<span>bank ' + gbp(p.bank) + '</span>';
+    if(p.res === "LOSE") return '<span class="res LOSE">LOST</span>' +
+      '<span class="money neg">−' + gbp(p.stake) + '</span>' +
+      '<span>bank ' + gbp(p.bank) + '</span>';
+  }
+  if(p.res && p.res !== "?")
+    return '<span class="res PEND">WAITING</span><span>race not all in — planned ' +
+      (p.stake != null ? gbp(p.stake) : "—") + '</span>';
+  return '<span class="res PEND">TO RUN</span><span>planned ' +
+    (p.stake != null ? gbp(p.stake) : "—") + ' at the off</span>';
 }
 
 function render(){
@@ -276,7 +284,7 @@ function renderSeason(){
   app.innerHTML = '<div class="err">Loading the run…</div>';
   jget("data/stats.json").then(st => {
     const s = st.season;
-    let html = '<section class="card"><div class="label">The whole run — £10 bank, 1% a pick each-way</div>' +
+    let html = '<section class="card"><div class="label">The whole run — £10 bank · Jacobs Ladder, 10p a unit</div>' +
       '<div class="row"><div style="font-weight:900;font-size:1.3rem;color:var(--sky2)">' +
       gbp(s.bank_start) + ' → ' + gbp(s.bank_end) + '</div>' +
       '<span class="chip blue">ROI ' + (s.roi>=0?"+":"") + s.roi + '%</span></div>' +
