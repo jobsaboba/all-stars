@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "13:30",
@@ -20,9 +20,9 @@
           "trainer": "M Dods",
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 6.68
+          "stake": 3.6,
+          "profit": -3.6,
+          "bank": 77.06
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "J Ryan",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 6.61
+          "stake": 3.9,
+          "profit": -3.9,
+          "bank": 73.16
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "T Davidson",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.07,
-          "profit": 0.08,
-          "bank": 6.69
+          "stake": 4.2,
+          "profit": 5.04,
+          "bank": 78.2
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "I Jardine",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 6.62
+          "stake": 4.0,
+          "profit": -4.0,
+          "bank": 74.2
         }
       ]
     }
@@ -109,14 +109,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.28,
-  "returned": 0.15,
-  "profit": -0.13,
+  "staked": 15.7,
+  "returned": 9.24,
+  "profit": -6.46,
   "bank": {
-    "start": 6.75,
-    "end": 6.62,
-    "next_stake": 0.07,
+    "start": 80.66,
+    "end": 74.2,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

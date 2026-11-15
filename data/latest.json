@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "11:40",
@@ -20,9 +20,9 @@
           "trainer": "G Elliott",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.56
+          "stake": 1.0,
+          "profit": -1.0,
+          "bank": 385.66
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "W P Mullins",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 5.55
+          "stake": 1.2,
+          "profit": -0.3,
+          "bank": 385.36
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "C E Longsdon",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.49
+          "stake": 1.4,
+          "profit": -1.4,
+          "bank": 383.96
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "N C Kelly",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": 0.02,
-          "bank": 5.51
+          "stake": 1.6,
+          "profit": 0.48,
+          "bank": 384.44
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "S Drinkwater",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 5.5
+          "stake": 1.4,
+          "profit": -0.28,
+          "bank": 384.16
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "C Gordon",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.01,
-          "bank": 5.51
+          "stake": 1.6,
+          "profit": 0.35,
+          "bank": 384.51
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "S R B Crawford",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.29,
-          "bank": 5.8
+          "stake": 1.5,
+          "profit": 7.2,
+          "bank": 391.71
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "A King",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.07,
-          "bank": 5.87
+          "stake": 0.3,
+          "profit": 0.34,
+          "bank": 392.05
         }
       ]
     },
@@ -284,9 +284,9 @@
           "trainer": "G Elliott",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 5.86
+          "stake": 0.3,
+          "profit": -0.03,
+          "bank": 392.02
         }
       ]
     },
@@ -356,9 +356,9 @@
           "trainer": "G Elliott",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.8
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 391.62
         }
       ]
     },
@@ -380,9 +380,9 @@
           "trainer": "D Skelton",
           "pos": 4,
           "res": "PLACE",
-          "stake": 0.06,
+          "stake": 0.5,
           "profit": 0.0,
-          "bank": 5.8
+          "bank": 391.62
         }
       ]
     },
@@ -404,7 +404,7 @@
           "trainer": "T Britten",
           "pos": 0,
           "res": null,
-          "stake": null,
+          "stake": 0.6,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "D Queally",
           "pos": 0,
           "res": null,
-          "stake": null,
+          "stake": 0.6,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "T Cooper",
           "pos": 0,
           "res": null,
-          "stake": null,
+          "stake": 0.6,
           "profit": null,
           "bank": null
         }
@@ -469,14 +469,23 @@
     "nr": 5,
     "pending": 3
   },
-  "staked": 0.65,
-  "returned": 0.83,
-  "profit": 0.18,
+  "staked": 13.0,
+  "returned": 17.96,
+  "profit": 4.96,
   "bank": {
-    "start": 5.62,
-    "end": 5.8,
-    "next_stake": 0.06,
+    "start": 386.66,
+    "end": 391.62,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "13:15",
@@ -20,9 +20,9 @@
           "trainer": "J & S Quinn",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.01,
-          "bank": 5.7
+          "stake": 19.8,
+          "profit": 3.96,
+          "bank": 47.65
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "I Jardine",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.64
+          "stake": 18.6,
+          "profit": -18.6,
+          "bank": 29.05
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "I Furtado",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.02,
-          "bank": 5.62
+          "stake": 21.0,
+          "profit": -5.77,
+          "bank": 23.28
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "M & D Easterby",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.56
+          "stake": 23.4,
+          "profit": -23.4,
+          "bank": -0.12
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "Gary Rutherford",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.5
+          "stake": 25.8,
+          "profit": -25.8,
+          "bank": -25.92
         }
       ]
     }
@@ -133,14 +133,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.3,
-  "returned": 0.11,
-  "profit": -0.19,
+  "staked": 108.6,
+  "returned": 38.99,
+  "profit": -69.61,
   "bank": {
-    "start": 5.69,
-    "end": 5.5,
-    "next_stake": 0.06,
+    "start": 43.69,
+    "end": -25.92,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

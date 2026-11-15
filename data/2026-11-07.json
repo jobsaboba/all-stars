@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "11:55",
@@ -20,9 +20,9 @@
           "trainer": "M Herrington",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.95
+          "stake": 3.4,
+          "profit": -3.4,
+          "bank": 301.86
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "S Edmunds",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 4.93
+          "stake": 3.8,
+          "profit": -1.62,
+          "bank": 300.24
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "M & D Easterby",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.88
+          "stake": 4.2,
+          "profit": -4.2,
+          "bank": 296.04
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "W R Crawford",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.83
+          "stake": 4.6,
+          "profit": -4.6,
+          "bank": 291.44
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "N G Richards",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.05,
-          "bank": 4.88
+          "stake": 5.0,
+          "profit": 4.5,
+          "bank": 295.94
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "D Skelton",
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.83
+          "stake": 4.7,
+          "profit": -4.7,
+          "bank": 291.24
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "N W Alexander",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 4.82
+          "stake": 5.2,
+          "profit": -0.78,
+          "bank": 290.46
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "M L W Bell",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.77
+          "stake": 5.7,
+          "profit": -5.7,
+          "bank": 284.76
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "J C McConnell",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 4.76
+          "stake": 6.2,
+          "profit": -0.93,
+          "bank": 283.83
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "N & W Twiston-Davies",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.05,
-          "bank": 4.81
+          "stake": 6.7,
+          "profit": 6.03,
+          "bank": 289.86
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "M & D Easterby",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": 0.02,
-          "bank": 4.83
+          "stake": 6.3,
+          "profit": 2.52,
+          "bank": 292.38
         }
       ]
     },
@@ -284,9 +284,9 @@
           "trainer": "M Appleby",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.08,
-          "bank": 4.91
+          "stake": 5.9,
+          "profit": 9.74,
+          "bank": 302.12
         }
       ]
     },
@@ -308,9 +308,9 @@
           "trainer": "G Boughey",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.86
+          "stake": 5.5,
+          "profit": -5.5,
+          "bank": 296.62
         }
       ]
     },
@@ -332,9 +332,9 @@
           "trainer": "J & T Gosden",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.81
+          "stake": 6.3,
+          "profit": -6.3,
+          "bank": 290.32
         }
       ]
     },
@@ -356,9 +356,9 @@
           "trainer": "Jamie Snowden",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.76
+          "stake": 7.1,
+          "profit": -7.1,
+          "bank": 283.22
         }
       ]
     },
@@ -380,9 +380,9 @@
           "trainer": "M Keighley",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.12,
-          "bank": 4.88
+          "stake": 7.9,
+          "profit": 18.96,
+          "bank": 302.18
         }
       ]
     },
@@ -404,9 +404,9 @@
           "trainer": "Ollie Sangster",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 4.86
+          "stake": 7.3,
+          "profit": -2.77,
+          "bank": 299.41
         }
       ]
     },
@@ -428,9 +428,9 @@
           "trainer": "P Neville",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.09,
-          "bank": 4.95
+          "stake": 8.3,
+          "profit": 14.94,
+          "bank": 314.35
         }
       ]
     },
@@ -452,9 +452,9 @@
           "trainer": "J P Ryan",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.9
+          "stake": 7.5,
+          "profit": -7.5,
+          "bank": 306.85
         }
       ]
     },
@@ -500,9 +500,9 @@
           "trainer": "T Ellis",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.85
+          "stake": 8.7,
+          "profit": -8.7,
+          "bank": 298.15
         }
       ]
     },
@@ -524,9 +524,9 @@
           "trainer": "L Russell & M Scudamore",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 4.84
+          "stake": 9.9,
+          "profit": -2.48,
+          "bank": 295.67
         }
       ]
     },
@@ -548,9 +548,9 @@
           "trainer": "R Varian",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.06,
-          "bank": 4.9
+          "stake": 11.1,
+          "profit": 13.32,
+          "bank": 308.99
         }
       ]
     },
@@ -572,9 +572,9 @@
           "trainer": "J Channon",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.33,
-          "bank": 5.23
+          "stake": 10.1,
+          "profit": 66.66,
+          "bank": 375.65
         }
       ]
     },
@@ -596,9 +596,9 @@
           "trainer": "A Slattery",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.18
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 375.35
         }
       ]
     },
@@ -620,9 +620,9 @@
           "trainer": "L A Mullaney",
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.13
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 374.95
         }
       ]
     },
@@ -644,9 +644,9 @@
           "trainer": "Ollie Sangster",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": 0.02,
-          "bank": 5.15
+          "stake": 0.5,
+          "profit": 0.2,
+          "bank": 375.15
         }
       ]
     },
@@ -668,9 +668,9 @@
           "trainer": "M Appleby",
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.1
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 374.65
         }
       ]
     },
@@ -692,9 +692,9 @@
           "trainer": "A W Carroll",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.09
+          "stake": 0.7,
+          "profit": -0.17,
+          "bank": 374.48
         }
       ]
     },
@@ -716,9 +716,9 @@
           "trainer": "I Jardine",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.04
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 373.58
         }
       ]
     }
@@ -733,14 +733,23 @@
     "nr": 1,
     "pending": 0
   },
-  "staked": 1.45,
-  "returned": 1.49,
-  "profit": 0.04,
+  "staked": 154.7,
+  "returned": 223.02,
+  "profit": 68.32,
   "bank": {
-    "start": 5.0,
-    "end": 5.04,
-    "next_stake": 0.05,
+    "start": 305.26,
+    "end": 373.58,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

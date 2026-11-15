@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "11:43",
@@ -20,9 +20,9 @@
           "trainer": "G P Cromwell",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.19
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 377.32
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "O Murphy",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 5.17
+          "stake": 0.7,
+          "profit": -0.29,
+          "bank": 377.03
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "H De Bromhead",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.11,
-          "bank": 5.28
+          "stake": 0.8,
+          "profit": 1.68,
+          "bank": 378.71
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "Miss E C Lavelle",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.09,
-          "bank": 5.37
+          "stake": 0.8,
+          "profit": 1.44,
+          "bank": 380.15
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "W Greatrex",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.03,
-          "bank": 5.4
+          "stake": 0.3,
+          "profit": 0.16,
+          "bank": 380.31
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "G Elliott",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.05,
-          "bank": 5.45
+          "stake": 0.3,
+          "profit": 0.27,
+          "bank": 380.58
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "F G Hand",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.4
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 380.28
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "J Tickle",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": 0.03,
-          "bank": 5.43
+          "stake": 0.4,
+          "profit": 0.2,
+          "bank": 380.48
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "D Skelton",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.38
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 380.08
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "D A McLoughlin",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
+          "stake": 0.6,
           "profit": 0.0,
-          "bank": 5.38
+          "bank": 380.08
         }
       ]
     },
@@ -284,9 +284,9 @@
           "trainer": "P C O'Connor",
           "pos": 4,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.37
+          "stake": 0.8,
+          "profit": -0.2,
+          "bank": 379.88
         }
       ]
     }
@@ -301,14 +301,23 @@
     "nr": 1,
     "pending": 0
   },
-  "staked": 0.55,
-  "returned": 0.68,
-  "profit": 0.13,
+  "staked": 6.0,
+  "returned": 7.96,
+  "profit": 1.96,
   "bank": {
-    "start": 5.24,
-    "end": 5.37,
-    "next_stake": 0.05,
+    "start": 377.92,
+    "end": 379.88,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

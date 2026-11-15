@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "14:20",
@@ -20,9 +20,9 @@
           "trainer": "Ciaran Murphy",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 5.39
+          "stake": 64.8,
+          "profit": -21.06,
+          "bank": -64.95
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R M Smith",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.38
+          "stake": 70.2,
+          "profit": -14.04,
+          "bank": -78.99
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "G Elliott",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.05,
-          "bank": 5.43
+          "stake": 75.6,
+          "profit": 79.38,
+          "bank": 0.39
         }
       ]
     }
@@ -85,14 +85,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.15,
-  "returned": 0.17,
-  "profit": 0.02,
+  "staked": 210.6,
+  "returned": 254.88,
+  "profit": 44.28,
   "bank": {
-    "start": 5.41,
-    "end": 5.43,
-    "next_stake": 0.05,
+    "start": -43.89,
+    "end": 0.39,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

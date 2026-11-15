@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "14:15",
@@ -20,9 +20,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.07,
-          "profit": 0.09,
-          "bank": 7.33
+          "stake": 1.1,
+          "profit": 1.49,
+          "bank": 97.16
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "M Dods",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 7.26
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 96.26
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "R M Smith",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 7.19
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 95.16
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "J S Goldie",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.07,
-          "profit": -0.01,
-          "bank": 7.18
+          "stake": 1.3,
+          "profit": -0.22,
+          "bank": 94.94
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "Maurice Ahern",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 7.11
+          "stake": 1.5,
+          "profit": -1.5,
+          "bank": 93.44
         }
       ]
     }
@@ -133,14 +133,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.35,
-  "returned": 0.22,
-  "profit": -0.13,
+  "staked": 5.9,
+  "returned": 3.67,
+  "profit": -2.23,
   "bank": {
-    "start": 7.24,
-    "end": 7.11,
-    "next_stake": 0.07,
+    "start": 95.67,
+    "end": 93.44,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

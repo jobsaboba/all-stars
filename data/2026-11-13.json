@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "12:20",
@@ -20,9 +20,9 @@
           "trainer": "T Ellis",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.02,
-          "bank": 5.39
+          "stake": 1.0,
+          "profit": 0.44,
+          "bank": 380.32
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "D Skelton",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 5.37
+          "stake": 0.8,
+          "profit": -0.26,
+          "bank": 380.06
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "J Tizzard",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.0,
-          "bank": 5.37
+          "stake": 1.0,
+          "profit": -0.1,
+          "bank": 379.96
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "I Furtado",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.18,
-          "bank": 5.55
+          "stake": 1.2,
+          "profit": 4.32,
+          "bank": 384.28
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "D Pipe",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": 0.02,
-          "bank": 5.57
+          "stake": 0.3,
+          "profit": 0.09,
+          "bank": 384.37
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "Stephen Thorne",
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.51
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 384.07
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "A McGuinness",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.45
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 383.67
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "A McGuinness",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.21,
-          "bank": 5.66
+          "stake": 0.5,
+          "profit": 2.1,
+          "bank": 385.77
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "J P O'Brien",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.03,
-          "bank": 5.63
+          "stake": 0.3,
+          "profit": -0.13,
+          "bank": 385.64
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "S Lavery",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.57
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 385.24
         }
       ]
     },
@@ -284,9 +284,9 @@
           "trainer": "Mrs J Harrington",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.11,
-          "bank": 5.68
+          "stake": 0.5,
+          "profit": 0.9,
+          "bank": 386.14
         }
       ]
     }
@@ -301,14 +301,23 @@
     "nr": 1,
     "pending": 0
   },
-  "staked": 0.61,
-  "returned": 0.92,
-  "profit": 0.31,
+  "staked": 6.7,
+  "returned": 12.96,
+  "profit": 6.26,
   "bank": {
-    "start": 5.37,
-    "end": 5.68,
-    "next_stake": 0.06,
+    "start": 379.88,
+    "end": 386.14,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "12:30",
@@ -20,9 +20,9 @@
           "trainer": "C Fellowes",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.44
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 289.34
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "J S Goldie",
           "pos": 4,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.0,
-          "bank": 5.44
+          "stake": 1.1,
+          "profit": -0.05,
+          "bank": 289.29
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Phillip Makin",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.43
+          "stake": 1.3,
+          "profit": -0.26,
+          "bank": 289.03
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "J Butler",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.38
+          "stake": 1.5,
+          "profit": -1.5,
+          "bank": 287.53
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "I Furtado",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.21,
-          "bank": 5.59
+          "stake": 1.7,
+          "profit": 7.14,
+          "bank": 294.67
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "R Spencer",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.18,
-          "bank": 5.77
+          "stake": 0.3,
+          "profit": 0.9,
+          "bank": 295.57
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "E Bethell",
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.71
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 295.27
         }
       ]
     }
@@ -181,14 +181,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.38,
-  "returned": 0.59,
-  "profit": 0.21,
+  "staked": 7.1,
+  "returned": 12.13,
+  "profit": 5.03,
   "bank": {
-    "start": 5.5,
-    "end": 5.71,
-    "next_stake": 0.06,
+    "start": 290.24,
+    "end": 295.27,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

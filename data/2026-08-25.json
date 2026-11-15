@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "13:15",
@@ -20,9 +20,9 @@
           "trainer": "K R Burke",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.44
+          "stake": 28.2,
+          "profit": -28.2,
+          "bank": -54.12
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "E Bethell",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 5.42
+          "stake": 30.6,
+          "profit": -11.63,
+          "bank": -65.75
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "E Bethell",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.37
+          "stake": 33.0,
+          "profit": -33.0,
+          "bank": -98.75
         }
       ]
     }
@@ -85,14 +85,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.16,
-  "returned": 0.03,
-  "profit": -0.13,
+  "staked": 91.8,
+  "returned": 18.97,
+  "profit": -72.83,
   "bank": {
-    "start": 5.5,
-    "end": 5.37,
-    "next_stake": 0.05,
+    "start": -25.92,
+    "end": -98.75,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

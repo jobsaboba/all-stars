@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "11:52",
@@ -20,9 +20,9 @@
           "trainer": "G Elliott",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.02,
-          "bank": 5.66
+          "stake": 0.3,
+          "profit": -0.12,
+          "bank": 386.02
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "J Candlish",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 5.65
+          "stake": 0.4,
+          "profit": -0.09,
+          "bank": 385.93
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "S Curling",
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.59
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 385.43
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "O Murphy",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 5.58
+          "stake": 0.6,
+          "profit": -0.06,
+          "bank": 385.37
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "H De Bromhead",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.29,
-          "bank": 5.87
+          "stake": 0.7,
+          "profit": 3.36,
+          "bank": 388.73
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "James Owen",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.02,
-          "bank": 5.85
+          "stake": 0.3,
+          "profit": -0.1,
+          "bank": 388.63
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "Miss E C Lavelle",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.79
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 388.23
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "G Elliott",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.07,
-          "bank": 5.86
+          "stake": 0.5,
+          "profit": 0.6,
+          "bank": 388.83
         }
       ]
     },
@@ -284,9 +284,9 @@
           "trainer": "N J Henderson",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 5.85
+          "stake": 0.3,
+          "profit": -0.07,
+          "bank": 388.76
         }
       ]
     },
@@ -308,9 +308,9 @@
           "trainer": "H De Bromhead",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.79
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 388.36
         }
       ]
     },
@@ -332,9 +332,9 @@
           "trainer": "D Skelton",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 5.78
+          "stake": 0.5,
+          "profit": -0.05,
+          "bank": 388.31
         }
       ]
     },
@@ -380,9 +380,9 @@
           "trainer": "P Nolan",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.72
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 387.71
         }
       ]
     },
@@ -428,9 +428,9 @@
           "trainer": "P Hobbs & J White",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.66
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 387.01
         }
       ]
     },
@@ -476,9 +476,9 @@
           "trainer": "O Murphy",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.6
+          "stake": 0.8,
+          "profit": -0.8,
+          "bank": 386.21
         }
       ]
     },
@@ -500,9 +500,9 @@
           "trainer": "Jamie & Josh Moore",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.54
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 385.31
         }
       ]
     },
@@ -548,9 +548,9 @@
           "trainer": "H De Bromhead",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.08,
-          "bank": 5.62
+          "stake": 1.0,
+          "profit": 1.35,
+          "bank": 386.66
         }
       ]
     }
@@ -565,14 +565,23 @@
     "nr": 7,
     "pending": 0
   },
-  "staked": 0.96,
-  "returned": 0.9,
-  "profit": -0.06,
+  "staked": 8.9,
+  "returned": 9.42,
+  "profit": 0.52,
   "bank": {
-    "start": 5.68,
-    "end": 5.62,
-    "next_stake": 0.06,
+    "start": 386.14,
+    "end": 386.66,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

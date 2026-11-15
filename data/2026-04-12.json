@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "13:03",
@@ -20,9 +20,9 @@
           "trainer": "R Bandey",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.1,
-          "profit": -0.04,
-          "bank": 9.9
+          "stake": 0.4,
+          "profit": -0.17,
+          "bank": 20.66
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "Miss R Curtis",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.17,
-          "bank": 10.07
+          "stake": 0.5,
+          "profit": 0.82,
+          "bank": 21.48
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Jamie Snowden",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.03,
-          "bank": 10.1
+          "stake": 0.3,
+          "profit": 0.08,
+          "bank": 21.56
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "N J Henderson",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.1,
-          "bank": 10.2
+          "stake": 0.3,
+          "profit": 0.29,
+          "bank": 21.85
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "M L W Bell",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.1,
-          "profit": -0.03,
-          "bank": 10.17
+          "stake": 0.3,
+          "profit": -0.07,
+          "bank": 21.78
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "Miss R Curtis",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.1,
-          "profit": -0.1,
-          "bank": 10.07
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 21.38
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "W J Haggas",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.1,
-          "profit": -0.1,
-          "bank": 9.97
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 20.88
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "E Bethell",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.1,
-          "profit": -0.1,
-          "bank": 9.87
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 20.28
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "James Owen",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.1,
-          "profit": -0.1,
-          "bank": 9.77
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 19.58
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.15,
-          "bank": 9.92
+          "stake": 0.8,
+          "profit": 1.2,
+          "bank": 20.78
         }
       ]
     }
@@ -277,14 +277,23 @@
     "nr": 1,
     "pending": 0
   },
-  "staked": 1.0,
-  "returned": 0.98,
-  "profit": -0.02,
+  "staked": 4.8,
+  "returned": 4.75,
+  "profit": -0.05,
   "bank": {
-    "start": 9.94,
-    "end": 9.92,
-    "next_stake": 0.1,
+    "start": 20.83,
+    "end": 20.78,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

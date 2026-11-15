@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "16:27",
@@ -20,9 +20,9 @@
           "trainer": "M & D Easterby",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.13,
-          "bank": 6.58
+          "stake": 4.0,
+          "profit": 8.4,
+          "bank": 99.17
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "Steph Hollinshead",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.07,
-          "profit": 0.0,
-          "bank": 6.58
+          "stake": 0.3,
+          "profit": 0.02,
+          "bank": 99.19
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Ian Williams",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.07,
-          "profit": -0.03,
-          "bank": 6.55
+          "stake": 0.3,
+          "profit": -0.11,
+          "bank": 99.08
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "J S Goldie",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 6.48
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 98.68
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "C Johnston",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.01,
-          "bank": 6.47
+          "stake": 0.5,
+          "profit": -0.07,
+          "bank": 98.61
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "K Scott",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": 0.01,
-          "bank": 6.48
+          "stake": 0.6,
+          "profit": 0.09,
+          "bank": 98.7
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "M Walford",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 6.42
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 98.1
         }
       ]
     }
@@ -181,14 +181,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.45,
-  "returned": 0.42,
-  "profit": -0.03,
+  "staked": 6.7,
+  "returned": 14.03,
+  "profit": 7.33,
   "bank": {
-    "start": 6.45,
-    "end": 6.42,
-    "next_stake": 0.06,
+    "start": 90.77,
+    "end": 98.1,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

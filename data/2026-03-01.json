@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "14:30",
@@ -20,9 +20,9 @@
           "trainer": "B Pauling",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.18,
-          "bank": 10.36
+          "stake": 1.1,
+          "profit": 1.98,
+          "bank": 18.37
         }
       ]
     }
@@ -37,14 +37,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.1,
-  "returned": 0.28,
-  "profit": 0.18,
+  "staked": 1.1,
+  "returned": 3.08,
+  "profit": 1.98,
   "bank": {
-    "start": 10.18,
-    "end": 10.36,
-    "next_stake": 0.1,
+    "start": 16.39,
+    "end": 18.37,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

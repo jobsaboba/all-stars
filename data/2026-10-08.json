@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "12:45",
@@ -20,9 +20,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.06,
-          "bank": 5.74
+          "stake": 0.8,
+          "profit": 0.84,
+          "bank": 300.57
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "Cian Hughes",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.07,
-          "bank": 5.81
+          "stake": 0.8,
+          "profit": 0.96,
+          "bank": 301.53
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "R M Beckett",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.75
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 300.83
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "J & S Quinn",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.02,
-          "bank": 5.73
+          "stake": 0.9,
+          "profit": -0.33,
+          "bank": 300.5
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "D M Loughnane",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.67
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 299.4
         }
       ]
     }
@@ -133,14 +133,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.3,
-  "returned": 0.29,
-  "profit": -0.01,
+  "staked": 4.3,
+  "returned": 3.97,
+  "profit": -0.33,
   "bank": {
-    "start": 5.68,
-    "end": 5.67,
-    "next_stake": 0.06,
+    "start": 299.73,
+    "end": 299.4,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

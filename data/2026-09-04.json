@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "16:10",
@@ -20,9 +20,9 @@
           "trainer": "D Skelton",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.41
+          "stake": 59.4,
+          "profit": -11.88,
+          "bank": -43.89
         }
       ]
     }
@@ -37,14 +37,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.05,
-  "returned": 0.04,
-  "profit": -0.01,
+  "staked": 59.4,
+  "returned": 47.52,
+  "profit": -11.88,
   "bank": {
-    "start": 5.42,
-    "end": 5.41,
-    "next_stake": 0.05,
+    "start": -32.01,
+    "end": -43.89,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

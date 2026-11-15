@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "13:00",
@@ -20,9 +20,9 @@
           "trainer": "M Bowen",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.18
+          "stake": 0.3,
+          "profit": -0.05,
+          "bank": 376.84
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "N G Richards",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 5.16
+          "stake": 0.4,
+          "profit": -0.16,
+          "bank": 376.68
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "I A Duncan",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.0,
-          "bank": 5.16
+          "stake": 0.5,
+          "profit": -0.05,
+          "bank": 376.63
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "G Keane",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.15
+          "stake": 0.6,
+          "profit": -0.12,
+          "bank": 376.51
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "Daniel McLoughlin",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 5.13
+          "stake": 0.7,
+          "profit": -0.23,
+          "bank": 376.28
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "N C Kelly",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.12,
-          "bank": 5.25
+          "stake": 0.8,
+          "profit": 1.92,
+          "bank": 378.2
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "Donnacha O'Brien",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.09,
-          "bank": 5.34
+          "stake": 0.3,
+          "profit": 0.54,
+          "bank": 378.74
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "G P Cromwell",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.29
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 378.44
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "Daniel Murphy",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.0,
-          "bank": 5.29
+          "stake": 0.4,
+          "profit": -0.02,
+          "bank": 378.42
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "R O'Sullivan",
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 5.24
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 377.92
         }
       ]
     }
@@ -277,14 +277,23 @@
     "nr": 1,
     "pending": 0
   },
-  "staked": 0.5,
-  "returned": 0.55,
-  "profit": 0.05,
+  "staked": 4.8,
+  "returned": 5.83,
+  "profit": 1.03,
   "bank": {
-    "start": 5.19,
-    "end": 5.24,
-    "next_stake": 0.05,
+    "start": 376.89,
+    "end": 377.92,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

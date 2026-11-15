@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "17:30",
@@ -20,9 +20,9 @@
           "trainer": "Miss J A Camacho",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
-          "profit": -0.03,
-          "bank": 6.14
+          "stake": 3.0,
+          "profit": -1.37,
+          "bank": 91.37
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R Varian",
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 6.08
+          "stake": 3.6,
+          "profit": -3.6,
+          "bank": 87.77
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "I Jardine",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06,
+          "stake": 4.2,
           "profit": 0.0,
-          "bank": 6.08
+          "bank": 87.77
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "K A Ryan",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 6.02
+          "stake": 4.8,
+          "profit": -4.8,
+          "bank": 82.97
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "T D Easterby",
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.06,
-          "profit": -0.06,
-          "bank": 5.96
+          "stake": 5.4,
+          "profit": -5.4,
+          "bank": 77.57
         }
       ]
     }
@@ -133,14 +133,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.3,
-  "returned": 0.09,
-  "profit": -0.21,
+  "staked": 21.0,
+  "returned": 5.83,
+  "profit": -15.17,
   "bank": {
-    "start": 6.17,
-    "end": 5.96,
-    "next_stake": 0.06,
+    "start": 92.74,
+    "end": 77.57,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

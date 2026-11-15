@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "12:00",
@@ -20,9 +20,9 @@
           "trainer": "M Magnussen",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.01,
-          "bank": 5.03
+          "stake": 1.1,
+          "profit": -0.25,
+          "bank": 373.33
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "N Meade",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.01,
-          "bank": 5.04
+          "stake": 1.3,
+          "profit": 0.2,
+          "bank": 373.53
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "O Murphy",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.05,
-          "profit": -0.02,
-          "bank": 5.02
+          "stake": 1.1,
+          "profit": -0.49,
+          "bank": 373.04
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "P F Nicholls",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.97
+          "stake": 1.3,
+          "profit": -1.3,
+          "bank": 371.74
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "H De Bromhead",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.01,
-          "bank": 4.98
+          "stake": 1.5,
+          "profit": 0.4,
+          "bank": 372.14
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "B Lund",
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.93
+          "stake": 1.4,
+          "profit": -1.4,
+          "bank": 370.74
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "Liz Doyle",
           "pos": 13,
           "res": "LOSE",
-          "stake": 0.05,
-          "profit": -0.05,
-          "bank": 4.88
+          "stake": 1.7,
+          "profit": -1.7,
+          "bank": 369.04
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "A J Honeyball",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.04,
-          "bank": 4.92
+          "stake": 2.0,
+          "profit": 1.5,
+          "bank": 370.54
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.03,
-          "bank": 4.95
+          "stake": 1.9,
+          "profit": 1.14,
+          "bank": 371.68
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "W P Mullins",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.02,
-          "bank": 4.97
+          "stake": 1.8,
+          "profit": 0.66,
+          "bank": 372.34
         }
       ]
     },
@@ -284,9 +284,9 @@
           "trainer": "James Owen",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.07,
-          "bank": 5.04
+          "stake": 0.9,
+          "profit": 1.21,
+          "bank": 373.55
         }
       ]
     },
@@ -308,9 +308,9 @@
           "trainer": "G Elliott",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.05,
-          "profit": 0.04,
-          "bank": 5.08
+          "stake": 0.3,
+          "profit": 0.22,
+          "bank": 373.77
         }
       ]
     }
@@ -325,14 +325,23 @@
     "nr": 1,
     "pending": 0
   },
-  "staked": 0.6,
-  "returned": 0.64,
-  "profit": 0.04,
+  "staked": 16.3,
+  "returned": 16.49,
+  "profit": 0.19,
   "bank": {
-    "start": 5.04,
-    "end": 5.08,
-    "next_stake": 0.05,
+    "start": 373.58,
+    "end": 373.77,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }

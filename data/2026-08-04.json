@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "updated": "2026-11-15T15:39:45+0000",
+  "updated": "2026-11-15T15:50:52+0000",
   "races": [
     {
       "time": "14:30",
@@ -20,9 +20,9 @@
           "trainer": "C Hills",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.07,
-          "profit": -0.07,
-          "bank": 6.43
+          "stake": 2.7,
+          "profit": -2.7,
+          "bank": 89.91
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "B J Llewellyn",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06,
-          "profit": 0.11,
-          "bank": 6.54
+          "stake": 3.0,
+          "profit": 5.4,
+          "bank": 95.31
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "J Butler",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.07,
-          "profit": -0.02,
-          "bank": 6.52
+          "stake": 2.8,
+          "profit": -0.94,
+          "bank": 94.37
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "D & C Kubler",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.07,
+          "stake": 3.2,
           "profit": 0.0,
-          "bank": 6.52
+          "bank": 94.37
         }
       ]
     }
@@ -109,14 +109,23 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.27,
-  "returned": 0.29,
-  "profit": 0.02,
+  "staked": 11.7,
+  "returned": 13.46,
+  "profit": 1.76,
   "bank": {
-    "start": 6.5,
-    "end": 6.52,
-    "next_stake": 0.07,
+    "start": 92.61,
+    "end": 94.37,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 5.8
+    "season_end": 391.62
   }
 }
