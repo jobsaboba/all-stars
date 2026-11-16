@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T19:00:44+0000",
+  "updated": "2026-11-16T19:30:33+0000",
   "races": [
     {
       "time": "13:15",
@@ -234,11 +234,11 @@
           "odds": "9/2",
           "jockey": "Myla Coppins",
           "trainer": "A W Carroll",
-          "pos": 0,
-          "res": null,
+          "pos": 6,
+          "res": "LOSE",
           "stake": 1.7,
-          "profit": null,
-          "bank": null
+          "profit": -1.7,
+          "bank": 384.57
         }
       ]
     },
@@ -260,7 +260,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.7,
+          "stake": 1.9,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.7,
+          "stake": 1.9,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 1.7,
+          "stake": 1.9,
           "profit": null,
           "bank": null
         }
@@ -318,20 +318,20 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 9,
+    "settled": 10,
     "won": 2,
     "placed": 2,
-    "lost": 5,
+    "lost": 6,
     "nr": 0,
-    "pending": 4
+    "pending": 3
   },
-  "staked": 17.9,
-  "returned": 14.19,
-  "profit": -3.71,
+  "staked": 18.5,
+  "returned": 13.09,
+  "profit": -5.41,
   "bank": {
     "start": 389.98,
-    "end": 386.27,
-    "next_stake": 1.7,
+    "end": 384.57,
+    "next_stake": 1.9,
     "ladder": [
       2,
       3,
@@ -344,10 +344,11 @@
       10,
       11,
       13,
-      15
+      15,
+      17
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 386.27
+    "season_end": 384.57
   }
 }
