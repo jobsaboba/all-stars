@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T13:30:28+0000",
+  "updated": "2026-11-16T14:30:35+0000",
   "races": [
     {
       "time": "13:15",
@@ -42,11 +42,11 @@
           "odds": "4/1",
           "jockey": "Chad Bament",
           "trainer": "A J Honeyball",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 1.0,
-          "profit": null,
-          "bank": null
+          "profit": -0.1,
+          "bank": 388.98
         }
       ]
     },
@@ -68,7 +68,7 @@
           "trainer": "A Irvine",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -92,7 +92,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -116,7 +116,7 @@
           "trainer": "C G Cox",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -140,7 +140,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -164,7 +164,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -188,7 +188,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -212,7 +212,7 @@
           "trainer": "R M H Cowell",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "A W Carroll",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -318,20 +318,20 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 1,
+    "settled": 2,
     "won": 0,
-    "placed": 0,
+    "placed": 1,
     "lost": 1,
     "nr": 0,
-    "pending": 12
+    "pending": 11
   },
-  "staked": 12.9,
-  "returned": 12.0,
-  "profit": -0.9,
+  "staked": 14.0,
+  "returned": 13.0,
+  "profit": -1.0,
   "bank": {
     "start": 389.98,
-    "end": 389.08,
-    "next_stake": 1.0,
+    "end": 388.98,
+    "next_stake": 1.1,
     "ladder": [
       1,
       2,
@@ -342,10 +342,11 @@
       6,
       7,
       8,
-      9
+      9,
+      10
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 389.08
+    "season_end": 388.98
   }
 }
