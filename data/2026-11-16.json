@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T16:00:41+0000",
+  "updated": "2026-11-16T17:00:30+0000",
   "races": [
     {
       "time": "13:15",
@@ -114,11 +114,11 @@
           "odds": "9/2",
           "jockey": "Georgia Dobie",
           "trainer": "C G Cox",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 1.3,
-          "profit": null,
-          "bank": null
+          "profit": -1.3,
+          "bank": 386.34
         }
       ]
     },
@@ -140,7 +140,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -164,7 +164,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -188,7 +188,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -212,7 +212,7 @@
           "trainer": "R M H Cowell",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "A W Carroll",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.4,
           "profit": null,
           "bank": null
         }
@@ -318,20 +318,20 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 4,
+    "settled": 5,
     "won": 0,
     "placed": 2,
-    "lost": 2,
+    "lost": 3,
     "nr": 0,
-    "pending": 9
+    "pending": 8
   },
-  "staked": 15.9,
-  "returned": 13.56,
-  "profit": -2.34,
+  "staked": 16.7,
+  "returned": 13.06,
+  "profit": -3.64,
   "bank": {
     "start": 389.98,
-    "end": 387.64,
-    "next_stake": 1.3,
+    "end": 386.34,
+    "next_stake": 1.4,
     "ladder": [
       1,
       2,
@@ -345,10 +345,11 @@
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 387.64
+    "season_end": 386.34
   }
 }
