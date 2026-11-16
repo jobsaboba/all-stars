@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T18:00:37+0000",
+  "updated": "2026-11-16T18:30:37+0000",
   "races": [
     {
       "time": "13:15",
@@ -186,11 +186,11 @@
           "odds": "10/11",
           "jockey": "Connor Planas",
           "trainer": "C Appleby",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 1.3,
-          "profit": null,
-          "bank": null
+          "profit": -1.3,
+          "bank": 387.77
         }
       ]
     },
@@ -212,7 +212,7 @@
           "trainer": "R M H Cowell",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.5,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "A W Carroll",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.5,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.5,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.5,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.5,
           "profit": null,
           "bank": null
         }
@@ -318,20 +318,20 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 7,
+    "settled": 8,
     "won": 2,
     "placed": 2,
-    "lost": 3,
+    "lost": 4,
     "nr": 0,
-    "pending": 6
+    "pending": 5
   },
-  "staked": 16.1,
-  "returned": 15.19,
-  "profit": -0.91,
+  "staked": 17.1,
+  "returned": 14.89,
+  "profit": -2.21,
   "bank": {
     "start": 389.98,
-    "end": 389.07,
-    "next_stake": 1.3,
+    "end": 387.77,
+    "next_stake": 1.5,
     "ladder": [
       2,
       3,
@@ -342,10 +342,11 @@
       8,
       9,
       10,
-      11
+      11,
+      13
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 389.07
+    "season_end": 387.77
   }
 }
