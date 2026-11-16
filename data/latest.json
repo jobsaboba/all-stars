@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T17:30:34+0000",
+  "updated": "2026-11-16T18:00:37+0000",
   "races": [
     {
       "time": "13:15",
@@ -162,11 +162,11 @@
           "odds": "5/4",
           "jockey": "Toby Moore",
           "trainer": "C Appleby",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 1.4,
-          "profit": null,
-          "bank": null
+          "profit": 1.05,
+          "bank": 389.07
         }
       ]
     },
@@ -188,7 +188,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -212,7 +212,7 @@
           "trainer": "R M H Cowell",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "A W Carroll",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -318,22 +318,21 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 6,
-    "won": 1,
+    "settled": 7,
+    "won": 2,
     "placed": 2,
     "lost": 3,
     "nr": 0,
-    "pending": 7
+    "pending": 6
   },
-  "staked": 16.7,
-  "returned": 14.74,
-  "profit": -1.96,
+  "staked": 16.1,
+  "returned": 15.19,
+  "profit": -0.91,
   "bank": {
     "start": 389.98,
-    "end": 388.02,
-    "next_stake": 1.4,
+    "end": 389.07,
+    "next_stake": 1.3,
     "ladder": [
-      2,
       2,
       3,
       4,
@@ -343,11 +342,10 @@
       8,
       9,
       10,
-      11,
-      12
+      11
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 388.02
+    "season_end": 389.07
   }
 }
