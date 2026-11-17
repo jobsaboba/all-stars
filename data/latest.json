@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T15:00:45+0000",
+  "updated": "2026-11-17T15:30:42+0000",
   "races": [
     {
       "time": "11:50",
@@ -282,11 +282,11 @@
           "odds": "8/1",
           "jockey": "Jonathan England",
           "trainer": "S England",
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 4.9,
-          "profit": null,
-          "bank": null
+          "profit": -4.9,
+          "bank": 355.79
         }
       ]
     },
@@ -307,8 +307,8 @@
           "jockey": "Luke Burke Ott",
           "trainer": "A Ott",
           "pos": 0,
-          "res": null,
-          "stake": 4.9,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "G P Cromwell",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "C Mason",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "S Crisford",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "M Herrington",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "E Bethell",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "B R Millman",
           "pos": 0,
           "res": null,
-          "stake": 4.9,
+          "stake": 5.3,
           "profit": null,
           "bank": null
         }
@@ -510,20 +510,20 @@
   "score": {
     "picks": 21,
     "races": 21,
-    "settled": 10,
+    "settled": 11,
     "won": 2,
     "placed": 3,
-    "lost": 5,
-    "nr": 1,
-    "pending": 10
+    "lost": 6,
+    "nr": 2,
+    "pending": 8
   },
-  "staked": 82.0,
-  "returned": 64.42,
-  "profit": -17.58,
+  "staked": 80.3,
+  "returned": 57.82,
+  "profit": -22.48,
   "bank": {
     "start": 378.27,
-    "end": 360.69,
-    "next_stake": 4.9,
+    "end": 355.79,
+    "next_stake": 5.3,
     "ladder": [
       4,
       5,
@@ -544,10 +544,11 @@
       33,
       37,
       41,
-      45
+      45,
+      49
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 360.69
+    "season_end": 355.79
   }
 }
