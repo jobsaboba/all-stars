@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T18:00:32+0000",
+  "updated": "2026-11-17T18:30:35+0000",
   "races": [
     {
       "time": "11:50",
@@ -402,11 +402,11 @@
           "odds": "7/2",
           "jockey": "Ross Coakley",
           "trainer": "S Crisford",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 5.9,
-          "profit": null,
-          "bank": null
+          "profit": -0.88,
+          "bank": 353.34
         }
       ]
     },
@@ -428,7 +428,7 @@
           "trainer": "M Herrington",
           "pos": 0,
           "res": null,
-          "stake": 5.9,
+          "stake": 6.4,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 5.9,
+          "stake": 6.4,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "E Bethell",
           "pos": 0,
           "res": null,
-          "stake": 5.9,
+          "stake": 6.4,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "B R Millman",
           "pos": 0,
           "res": null,
-          "stake": 5.9,
+          "stake": 6.4,
           "profit": null,
           "bank": null
         }
@@ -510,20 +510,20 @@
   "score": {
     "picks": 21,
     "races": 21,
-    "settled": 14,
+    "settled": 15,
     "won": 2,
-    "placed": 6,
+    "placed": 7,
     "lost": 6,
     "nr": 2,
-    "pending": 5
+    "pending": 4
   },
-  "staked": 83.8,
-  "returned": 59.75,
-  "profit": -24.05,
+  "staked": 85.8,
+  "returned": 60.87,
+  "profit": -24.93,
   "bank": {
     "start": 378.27,
-    "end": 354.22,
-    "next_stake": 5.9,
+    "end": 353.34,
+    "next_stake": 6.4,
     "ladder": [
       5,
       6,
@@ -545,10 +545,11 @@
       41,
       45,
       49,
-      54
+      54,
+      59
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 354.22
+    "season_end": 353.34
   }
 }
