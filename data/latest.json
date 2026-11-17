@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T15:30:42+0000",
+  "updated": "2026-11-17T16:00:41+0000",
   "races": [
     {
       "time": "11:50",
@@ -330,11 +330,11 @@
           "odds": "15/8",
           "jockey": "Miss G Benson",
           "trainer": "G P Cromwell",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 5.3,
-          "profit": null,
-          "bank": null
+          "profit": -1.66,
+          "bank": 354.13
         }
       ]
     },
@@ -356,7 +356,7 @@
           "trainer": "C Mason",
           "pos": 0,
           "res": null,
-          "stake": 5.3,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 5.3,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "S Crisford",
           "pos": 0,
           "res": null,
-          "stake": 5.3,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "M Herrington",
           "pos": 0,
           "res": null,
-          "stake": 5.3,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 5.3,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "E Bethell",
           "pos": 0,
           "res": null,
-          "stake": 5.3,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "B R Millman",
           "pos": 0,
           "res": null,
-          "stake": 5.3,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -510,20 +510,20 @@
   "score": {
     "picks": 21,
     "races": 21,
-    "settled": 11,
+    "settled": 12,
     "won": 2,
-    "placed": 3,
+    "placed": 4,
     "lost": 6,
     "nr": 2,
-    "pending": 8
+    "pending": 7
   },
-  "staked": 80.3,
-  "returned": 57.82,
-  "profit": -22.48,
+  "staked": 83.1,
+  "returned": 58.96,
+  "profit": -24.14,
   "bank": {
     "start": 378.27,
-    "end": 355.79,
-    "next_stake": 5.3,
+    "end": 354.13,
+    "next_stake": 5.7,
     "ladder": [
       4,
       5,
@@ -545,10 +545,11 @@
       37,
       41,
       45,
-      49
+      49,
+      53
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 355.79
+    "season_end": 354.13
   }
 }
