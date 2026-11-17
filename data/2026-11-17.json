@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T19:32:02+0000",
+  "updated": "2026-11-17T20:00:36+0000",
   "races": [
     {
       "time": "11:50",
@@ -474,11 +474,11 @@
           "odds": "7/4",
           "jockey": "Ryan Sexton",
           "trainer": "E Bethell",
-          "pos": 0,
-          "res": null,
+          "pos": 6,
+          "res": "LOSE",
           "stake": 7.4,
-          "profit": null,
-          "bank": null
+          "profit": -7.4,
+          "bank": 342.96
         }
       ]
     },
@@ -500,7 +500,7 @@
           "trainer": "B R Millman",
           "pos": 0,
           "res": null,
-          "stake": 7.4,
+          "stake": 7.9,
           "profit": null,
           "bank": null
         }
@@ -510,20 +510,20 @@
   "score": {
     "picks": 21,
     "races": 21,
-    "settled": 17,
+    "settled": 18,
     "won": 2,
     "placed": 9,
-    "lost": 6,
+    "lost": 7,
     "nr": 2,
-    "pending": 2
+    "pending": 1
   },
-  "staked": 88.3,
-  "returned": 60.39,
-  "profit": -27.91,
+  "staked": 88.8,
+  "returned": 53.49,
+  "profit": -35.31,
   "bank": {
     "start": 378.27,
-    "end": 350.36,
-    "next_stake": 7.4,
+    "end": 342.96,
+    "next_stake": 7.9,
     "ladder": [
       5,
       6,
@@ -548,10 +548,11 @@
       54,
       59,
       64,
-      69
+      69,
+      74
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 350.36
+    "season_end": 342.96
   }
 }
