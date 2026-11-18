@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T16:01:05+0000",
+  "updated": "2026-11-18T16:30:51+0000",
   "races": [
     {
       "time": "12:33",
@@ -354,11 +354,11 @@
           "odds": "7/2",
           "jockey": "Colin Keane",
           "trainer": "G M Lyons",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 1.0,
-          "profit": null,
-          "bank": null
+          "profit": -0.15,
+          "bank": 400.33
         }
       ]
     },
@@ -379,8 +379,8 @@
           "jockey": "Jonny Peate",
           "trainer": "J R Fanshawe",
           "pos": 0,
-          "res": null,
-          "stake": 1.0,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "Daniel Murphy",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "M Botti",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "D K Weld",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "D Hogan",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "J R Fanshawe",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 1.0,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -606,29 +606,30 @@
   "score": {
     "picks": 25,
     "races": 25,
-    "settled": 14,
+    "settled": 15,
     "won": 6,
-    "placed": 5,
+    "placed": 6,
     "lost": 3,
-    "nr": 0,
-    "pending": 11
+    "nr": 1,
+    "pending": 9
   },
-  "staked": 55.9,
-  "returned": 106.31,
-  "profit": 50.41,
+  "staked": 56.7,
+  "returned": 106.96,
+  "profit": 50.26,
   "bank": {
     "start": 350.07,
-    "end": 400.48,
-    "next_stake": 1.0,
+    "end": 400.33,
+    "next_stake": 1.2,
     "ladder": [
       2,
       2,
       4,
       6,
-      8
+      8,
+      10
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 400.48
+    "season_end": 400.33
   }
 }
