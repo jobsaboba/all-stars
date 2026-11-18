@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T15:30:50+0000",
+  "updated": "2026-11-18T16:01:05+0000",
   "races": [
     {
       "time": "12:33",
@@ -306,11 +306,11 @@
           "odds": "11/4",
           "jockey": "Camillus Byrne",
           "trainer": "A McGuinness",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.6,
-          "profit": null,
-          "bank": null
+          "profit": -0.13,
+          "bank": 401.28
         }
       ]
     },
@@ -330,11 +330,11 @@
           "odds": "7/2",
           "jockey": "S Bowen",
           "trainer": "M Bowen",
-          "pos": 0,
-          "res": null,
-          "stake": 0.6,
-          "profit": null,
-          "bank": null
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.8,
+          "profit": -0.8,
+          "bank": 400.48
         }
       ]
     },
@@ -356,7 +356,7 @@
           "trainer": "G M Lyons",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "J R Fanshawe",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "Daniel Murphy",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "M Botti",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "D K Weld",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "D Hogan",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "J R Fanshawe",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.0,
           "profit": null,
           "bank": null
         }
@@ -606,27 +606,29 @@
   "score": {
     "picks": 25,
     "races": 25,
-    "settled": 12,
+    "settled": 14,
     "won": 6,
-    "placed": 4,
-    "lost": 2,
+    "placed": 5,
+    "lost": 3,
     "nr": 0,
-    "pending": 13
+    "pending": 11
   },
-  "staked": 51.3,
-  "returned": 102.64,
-  "profit": 51.34,
+  "staked": 55.9,
+  "returned": 106.31,
+  "profit": 50.41,
   "bank": {
     "start": 350.07,
-    "end": 401.41,
-    "next_stake": 0.6,
+    "end": 400.48,
+    "next_stake": 1.0,
     "ladder": [
       2,
       2,
-      4
+      4,
+      6,
+      8
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 401.41
+    "season_end": 400.48
   }
 }
