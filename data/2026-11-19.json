@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T18:30:53+0000",
+  "updated": "2026-11-19T19:00:42+0000",
   "races": [
     {
       "time": "11:18",
@@ -594,11 +594,11 @@
           "odds": "25/1",
           "jockey": "K Stott",
           "trainer": "K A Ryan",
-          "pos": 0,
-          "res": null,
+          "pos": 14,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 412.32
         }
       ]
     },
@@ -620,7 +620,7 @@
           "trainer": "M Dods",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -644,7 +644,7 @@
           "trainer": "N Tinkler",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -654,27 +654,28 @@
   "score": {
     "picks": 27,
     "races": 27,
-    "settled": 23,
+    "settled": 24,
     "won": 8,
     "placed": 8,
-    "lost": 7,
+    "lost": 8,
     "nr": 1,
-    "pending": 3
+    "pending": 2
   },
-  "staked": 43.0,
-  "returned": 61.81,
-  "profit": 18.81,
+  "staked": 43.2,
+  "returned": 61.71,
+  "profit": 18.51,
   "bank": {
     "start": 393.81,
-    "end": 412.62,
-    "next_stake": 0.3,
+    "end": 412.32,
+    "next_stake": 0.4,
     "ladder": [
       1,
       2,
-      2
+      2,
+      3
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 412.62
+    "season_end": 412.32
   }
 }
