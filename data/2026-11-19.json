@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T16:30:40+0000",
+  "updated": "2026-11-19T17:00:53+0000",
   "races": [
     {
       "time": "11:18",
@@ -546,11 +546,11 @@
           "odds": "6/1",
           "jockey": "Ryan Sexton",
           "trainer": "Miss J A Camacho",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.9,
-          "profit": null,
-          "bank": null
+          "profit": 3.24,
+          "bank": 411.54
         }
       ]
     },
@@ -572,7 +572,7 @@
           "trainer": "J Candlish",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "K A Ryan",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -620,7 +620,7 @@
           "trainer": "M Dods",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -644,7 +644,7 @@
           "trainer": "N Tinkler",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -654,29 +654,27 @@
   "score": {
     "picks": 27,
     "races": 27,
-    "settled": 21,
-    "won": 6,
+    "settled": 22,
+    "won": 7,
     "placed": 8,
     "lost": 7,
     "nr": 1,
-    "pending": 5
+    "pending": 4
   },
-  "staked": 45.4,
-  "returned": 59.89,
-  "profit": 14.49,
+  "staked": 43.0,
+  "returned": 60.73,
+  "profit": 17.73,
   "bank": {
     "start": 393.81,
-    "end": 408.3,
-    "next_stake": 0.9,
+    "end": 411.54,
+    "next_stake": 0.3,
     "ladder": [
+      1,
       2,
-      2,
-      3,
-      5,
-      7
+      2
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 408.3
+    "season_end": 411.54
   }
 }
