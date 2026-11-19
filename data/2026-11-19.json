@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T19:00:42+0000",
+  "updated": "2026-11-19T19:30:43+0000",
   "races": [
     {
       "time": "11:18",
@@ -618,11 +618,11 @@
           "odds": "9/2",
           "jockey": "Sean Kirrane",
           "trainer": "M Dods",
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": -0.4,
+          "bank": 411.92
         }
       ]
     },
@@ -644,7 +644,7 @@
           "trainer": "N Tinkler",
           "pos": 0,
           "res": null,
-          "stake": 0.4,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -654,28 +654,29 @@
   "score": {
     "picks": 27,
     "races": 27,
-    "settled": 24,
+    "settled": 25,
     "won": 8,
     "placed": 8,
-    "lost": 8,
+    "lost": 9,
     "nr": 1,
-    "pending": 2
+    "pending": 1
   },
-  "staked": 43.2,
-  "returned": 61.71,
-  "profit": 18.51,
+  "staked": 43.3,
+  "returned": 61.41,
+  "profit": 18.11,
   "bank": {
     "start": 393.81,
-    "end": 412.32,
-    "next_stake": 0.4,
+    "end": 411.92,
+    "next_stake": 0.5,
     "ladder": [
       1,
       2,
       2,
-      3
+      3,
+      4
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 412.32
+    "season_end": 411.92
   }
 }
