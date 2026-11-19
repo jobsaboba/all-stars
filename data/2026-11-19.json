@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T13:30:42+0000",
+  "updated": "2026-11-19T14:02:25+0000",
   "races": [
     {
       "time": "11:18",
@@ -234,11 +234,11 @@
           "odds": "6/1",
           "jockey": "Sam Twiston-Davies",
           "trainer": "P F Nicholls",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": 1.44,
+          "bank": 407.14
         }
       ]
     },
@@ -258,11 +258,11 @@
           "odds": "15/8",
           "jockey": "Daniel King",
           "trainer": "R Hackett",
-          "pos": 0,
-          "res": null,
-          "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 406.84
         }
       ]
     },
@@ -654,19 +654,19 @@
   "score": {
     "picks": 27,
     "races": 27,
-    "settled": 9,
-    "won": 3,
+    "settled": 11,
+    "won": 4,
     "placed": 5,
-    "lost": 1,
+    "lost": 2,
     "nr": 0,
-    "pending": 18
+    "pending": 16
   },
-  "staked": 42.9,
-  "returned": 54.79,
-  "profit": 11.89,
+  "staked": 42.8,
+  "returned": 55.83,
+  "profit": 13.03,
   "bank": {
     "start": 393.81,
-    "end": 405.7,
+    "end": 406.84,
     "next_stake": 0.4,
     "ladder": [
       1,
@@ -676,6 +676,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 405.7
+    "season_end": 406.84
   }
 }
