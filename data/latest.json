@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T15:00:44+0000",
+  "updated": "2026-11-19T15:30:41+0000",
   "races": [
     {
       "time": "11:18",
@@ -378,11 +378,11 @@
           "odds": "3/1",
           "jockey": "P J O'Hanlon",
           "trainer": "D A McLoughlin",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": -0.4,
+          "bank": 408.4
         }
       ]
     },
@@ -402,11 +402,11 @@
           "odds": "5/1",
           "jockey": "Rossa Ryan",
           "trainer": "A W Carroll",
-          "pos": 0,
-          "res": null,
-          "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 1.5,
+          "bank": 409.9
         }
       ]
     },
@@ -426,11 +426,11 @@
           "odds": "10/1",
           "jockey": "Ben Jones",
           "trainer": "B Pauling",
-          "pos": 0,
-          "res": null,
-          "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 409.6
         }
       ]
     },
@@ -654,19 +654,19 @@
   "score": {
     "picks": 27,
     "races": 27,
-    "settled": 14,
-    "won": 5,
+    "settled": 17,
+    "won": 6,
     "placed": 6,
-    "lost": 3,
+    "lost": 5,
     "nr": 1,
-    "pending": 12
+    "pending": 9
   },
   "staked": 42.4,
-  "returned": 57.39,
-  "profit": 14.99,
+  "returned": 58.19,
+  "profit": 15.79,
   "bank": {
     "start": 393.81,
-    "end": 408.8,
+    "end": 409.6,
     "next_stake": 0.4,
     "ladder": [
       1,
@@ -676,6 +676,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 408.8
+    "season_end": 409.6
   }
 }
