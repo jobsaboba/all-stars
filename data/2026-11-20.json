@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T15:30:50+0000",
+  "updated": "2026-11-20T17:02:06+0000",
   "races": [
     {
       "time": "11:20",
@@ -378,11 +378,11 @@
           "odds": "7/1",
           "jockey": "Mr Jack Loughnane",
           "trainer": "P Morris",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.06,
+          "bank": 416.88
         }
       ]
     },
@@ -402,11 +402,11 @@
           "odds": "9/4",
           "jockey": "Conor Cusack",
           "trainer": "H De Bromhead",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.4,
+          "bank": 417.28
         }
       ]
     },
@@ -726,19 +726,19 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 13,
-    "won": 5,
-    "placed": 5,
+    "settled": 15,
+    "won": 6,
+    "placed": 6,
     "lost": 3,
     "nr": 2,
-    "pending": 15
+    "pending": 13
   },
   "staked": 9.5,
-  "returned": 14.9,
-  "profit": 5.4,
+  "returned": 15.36,
+  "profit": 5.86,
   "bank": {
     "start": 411.42,
-    "end": 416.82,
+    "end": 417.28,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -747,6 +747,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 416.82
+    "season_end": 417.28
   }
 }
