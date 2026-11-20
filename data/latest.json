@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T14:01:09+0000",
+  "updated": "2026-11-20T14:30:50+0000",
   "races": [
     {
       "time": "11:20",
@@ -234,11 +234,11 @@
           "odds": "10/1",
           "jockey": "Adam Wedge",
           "trainer": "Mrs C Williams",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.15,
+          "bank": 415.49
         }
       ]
     },
@@ -726,19 +726,19 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 8,
+    "settled": 9,
     "won": 3,
-    "placed": 3,
+    "placed": 4,
     "lost": 2,
     "nr": 1,
-    "pending": 21
+    "pending": 20
   },
   "staked": 9.5,
-  "returned": 13.42,
-  "profit": 3.92,
+  "returned": 13.57,
+  "profit": 4.07,
   "bank": {
     "start": 411.42,
-    "end": 415.34,
+    "end": 415.49,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -747,6 +747,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 415.34
+    "season_end": 415.49
   }
 }
