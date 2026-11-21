@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "2026-11-21T19:01:03+0000",
+  "updated": "2026-11-21T19:31:00+0000",
   "races": [
     {
       "time": "11:00",
@@ -775,11 +775,11 @@
           "odds": "16/1",
           "jockey": "Rhys Elliott",
           "trainer": "M Dods",
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 1.3,
-          "profit": null,
-          "bank": null
+          "profit": -1.3,
+          "bank": 427.43
         }
       ]
     }
@@ -787,20 +787,20 @@
   "score": {
     "picks": 33,
     "races": 32,
-    "settled": 31,
+    "settled": 32,
     "won": 7,
     "placed": 9,
-    "lost": 15,
+    "lost": 16,
     "nr": 1,
-    "pending": 1
+    "pending": 0
   },
   "staked": 23.5,
-  "returned": 28.0,
-  "profit": 4.5,
+  "returned": 26.7,
+  "profit": 3.2,
   "bank": {
     "start": 424.23,
-    "end": 428.73,
-    "next_stake": 1.3,
+    "end": 427.43,
+    "next_stake": 1.5,
     "ladder": [
       2,
       2,
@@ -809,10 +809,11 @@
       5,
       7,
       9,
-      11
+      11,
+      13
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 428.73
+    "season_end": 427.43
   }
 }
