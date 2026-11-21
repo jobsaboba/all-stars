@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "updated": "2026-11-20T21:00:46+0000",
+  "updated": "2026-11-21T13:01:03+0000",
   "races": [
     {
       "time": "13:10",
@@ -139,15 +139,14 @@
   "bank": {
     "start": 25.62,
     "end": 22.66,
-    "next_stake": 0.4,
+    "next_stake": 0.3,
     "ladder": [
       1,
       2,
-      2,
-      3
+      2
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 424.23
+    "season_end": 425.8
   }
 }
