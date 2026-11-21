@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "2026-11-21T18:01:04+0000",
+  "updated": "2026-11-21T18:31:00+0000",
   "races": [
     {
       "time": "11:00",
@@ -727,11 +727,11 @@
           "odds": "9/4",
           "jockey": "Hollie Doyle",
           "trainer": "James Owen",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.9,
-          "profit": null,
-          "bank": null
+          "profit": -0.9,
+          "bank": 429.1
         }
       ]
     },
@@ -753,7 +753,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -777,7 +777,7 @@
           "trainer": "M Dods",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 1.1,
           "profit": null,
           "bank": null
         }
@@ -787,30 +787,31 @@
   "score": {
     "picks": 33,
     "races": 32,
-    "settled": 29,
+    "settled": 30,
     "won": 7,
     "placed": 8,
-    "lost": 14,
+    "lost": 15,
     "nr": 1,
-    "pending": 3
+    "pending": 2
   },
-  "staked": 22.9,
-  "returned": 28.67,
-  "profit": 5.77,
+  "staked": 23.3,
+  "returned": 28.17,
+  "profit": 4.87,
   "bank": {
     "start": 424.23,
-    "end": 430.0,
-    "next_stake": 0.9,
+    "end": 429.1,
+    "next_stake": 1.1,
     "ladder": [
       2,
       2,
       3,
       4,
       5,
-      7
+      7,
+      9
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 430.0
+    "season_end": 429.1
   }
 }
