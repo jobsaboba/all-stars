@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "2026-11-21T17:01:06+0000",
+  "updated": "2026-11-21T18:01:04+0000",
   "races": [
     {
       "time": "11:00",
@@ -703,11 +703,11 @@
           "odds": "10/3",
           "jockey": "Alistair Rawlinson",
           "trainer": "S R Bowring",
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": -0.7,
+          "bank": 430.0
         }
       ]
     },
@@ -729,7 +729,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.9,
           "profit": null,
           "bank": null
         }
@@ -753,7 +753,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.9,
           "profit": null,
           "bank": null
         }
@@ -777,7 +777,7 @@
           "trainer": "M Dods",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.9,
           "profit": null,
           "bank": null
         }
@@ -787,29 +787,30 @@
   "score": {
     "picks": 33,
     "races": 32,
-    "settled": 28,
+    "settled": 29,
     "won": 7,
     "placed": 8,
-    "lost": 13,
+    "lost": 14,
     "nr": 1,
-    "pending": 4
+    "pending": 3
   },
-  "staked": 22.3,
-  "returned": 28.77,
-  "profit": 6.47,
+  "staked": 22.9,
+  "returned": 28.67,
+  "profit": 5.77,
   "bank": {
     "start": 424.23,
-    "end": 430.7,
-    "next_stake": 0.7,
+    "end": 430.0,
+    "next_stake": 0.9,
     "ladder": [
       2,
       2,
       3,
       4,
-      5
+      5,
+      7
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 430.7
+    "season_end": 430.0
   }
 }
