@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "2026-11-22T15:01:17+0000",
+  "updated": "2026-11-22T15:31:12+0000",
   "races": [
     {
       "time": "11:25",
@@ -426,11 +426,11 @@
           "odds": "15/2",
           "jockey": "Donagh Meyler",
           "trainer": "R O'Sullivan",
-          "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 428.81
         }
       ]
     },
@@ -450,11 +450,11 @@
           "odds": "5/1",
           "jockey": "Hollie Doyle",
           "trainer": "D Flood",
-          "pos": 0,
-          "res": null,
-          "stake": 0.9,
-          "profit": null,
-          "bank": null
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 427.71
         }
       ]
     },
@@ -474,11 +474,11 @@
           "odds": "10/11",
           "jockey": "Paul Townend",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
-          "stake": 0.9,
-          "profit": null,
-          "bank": null
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.3,
+          "profit": -0.53,
+          "bank": 427.18
         }
       ]
     },
@@ -498,11 +498,11 @@
           "odds": "9/4",
           "jockey": "Jordan Canavan",
           "trainer": "J P Flavin",
-          "pos": 0,
-          "res": null,
-          "stake": 0.9,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.5,
+          "profit": 2.02,
+          "bank": 429.2
         }
       ]
     },
@@ -524,7 +524,7 @@
           "trainer": "Jamie & Josh Moore",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "W P Mullins",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "B I Case",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "E Mullins",
           "pos": 0,
           "res": null,
-          "stake": 0.9,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -606,31 +606,32 @@
   "score": {
     "picks": 25,
     "races": 25,
-    "settled": 17,
-    "won": 3,
-    "placed": 6,
-    "lost": 8,
-    "nr": 1,
-    "pending": 7
+    "settled": 21,
+    "won": 4,
+    "placed": 7,
+    "lost": 10,
+    "nr": 0,
+    "pending": 4
   },
-  "staked": 29.4,
-  "returned": 31.68,
-  "profit": 2.28,
+  "staked": 33.1,
+  "returned": 34.87,
+  "profit": 1.77,
   "bank": {
     "start": 427.43,
-    "end": 429.71,
-    "next_stake": 0.9,
+    "end": 429.2,
+    "next_stake": 1.3,
     "ladder": [
-      2,
       2,
       3,
       4,
       5,
       6,
-      7
+      7,
+      9,
+      11
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 429.71
+    "season_end": 429.2
   }
 }
