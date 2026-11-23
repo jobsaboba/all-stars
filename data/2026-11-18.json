@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "12:33",
@@ -20,9 +20,9 @@
           "trainer": "Jamie Snowden",
           "pos": 1,
           "res": "WIN",
-          "stake": 7.5,
-          "profit": 6.19,
-          "bank": 356.26
+          "stake": 8.4,
+          "profit": 6.93,
+          "bank": 622.28
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "D Pipe",
           "pos": 1,
           "res": "WIN",
-          "stake": 7.1,
-          "profit": 5.86,
-          "bank": 362.12
+          "stake": 8.0,
+          "profit": 6.6,
+          "bank": 628.88
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 6.7,
-          "profit": 5.03,
-          "bank": 367.15
+          "stake": 7.6,
+          "profit": 5.7,
+          "bank": 634.58
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "N W Alexander",
           "pos": 2,
           "res": "PLACE",
-          "stake": 6.3,
-          "profit": -1.05,
-          "bank": 366.1
+          "stake": 7.2,
+          "profit": -1.2,
+          "bank": 633.38
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "P J F Murphy",
           "pos": 1,
           "res": "WIN",
-          "stake": 7.2,
-          "profit": 25.92,
-          "bank": 392.02
+          "stake": 8.1,
+          "profit": 29.16,
+          "bank": 662.54
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "S Corbett",
           "pos": 1,
           "res": "WIN",
-          "stake": 6.4,
-          "profit": 9.6,
-          "bank": 401.62
+          "stake": 7.3,
+          "profit": 10.95,
+          "bank": 673.49
         }
       ]
     },
@@ -166,7 +166,7 @@
           "res": "LOSE",
           "stake": 0.3,
           "profit": -0.3,
-          "bank": 401.32
+          "bank": 673.19
         }
       ]
     },
@@ -190,7 +190,7 @@
           "res": "PLACE",
           "stake": 0.4,
           "profit": -0.06,
-          "bank": 401.26
+          "bank": 673.13
         }
       ]
     },
@@ -214,7 +214,7 @@
           "res": "WIN",
           "stake": 0.5,
           "profit": 0.3,
-          "bank": 401.56
+          "bank": 673.43
         }
       ]
     },
@@ -238,7 +238,7 @@
           "res": "PLACE",
           "stake": 0.5,
           "profit": 0.05,
-          "bank": 401.61
+          "bank": 673.48
         }
       ]
     },
@@ -262,7 +262,7 @@
           "res": "LOSE",
           "stake": 0.2,
           "profit": -0.2,
-          "bank": 401.41
+          "bank": 673.28
         }
       ]
     },
@@ -286,7 +286,7 @@
           "res": "PLACE",
           "stake": 0.4,
           "profit": 0.0,
-          "bank": 401.41
+          "bank": 673.28
         }
       ]
     },
@@ -310,7 +310,7 @@
           "res": "PLACE",
           "stake": 0.6,
           "profit": -0.13,
-          "bank": 401.28
+          "bank": 673.15
         }
       ]
     },
@@ -334,7 +334,7 @@
           "res": "LOSE",
           "stake": 0.8,
           "profit": -0.8,
-          "bank": 400.48
+          "bank": 672.35
         }
       ]
     },
@@ -358,7 +358,7 @@
           "res": "PLACE",
           "stake": 1.0,
           "profit": -0.15,
-          "bank": 400.33
+          "bank": 672.2
         }
       ]
     },
@@ -382,7 +382,7 @@
           "res": "LOSE",
           "stake": 1.2,
           "profit": -1.2,
-          "bank": 399.13
+          "bank": 671.0
         }
       ]
     },
@@ -406,7 +406,7 @@
           "res": "PLACE",
           "stake": 1.4,
           "profit": -0.28,
-          "bank": 398.85
+          "bank": 670.72
         }
       ]
     },
@@ -430,7 +430,7 @@
           "res": "LOSE",
           "stake": 1.6,
           "profit": -1.6,
-          "bank": 397.25
+          "bank": 669.12
         }
       ]
     },
@@ -454,7 +454,7 @@
           "res": "WIN",
           "stake": 1.8,
           "profit": 1.89,
-          "bank": 399.14
+          "bank": 671.01
         }
       ]
     },
@@ -478,7 +478,7 @@
           "res": "LOSE",
           "stake": 1.6,
           "profit": -1.6,
-          "bank": 397.54
+          "bank": 669.41
         }
       ]
     },
@@ -502,7 +502,7 @@
           "res": "WIN",
           "stake": 1.8,
           "profit": 3.78,
-          "bank": 401.32
+          "bank": 673.19
         }
       ]
     },
@@ -526,7 +526,7 @@
           "res": "LOSE",
           "stake": 1.8,
           "profit": -1.8,
-          "bank": 399.52
+          "bank": 671.39
         }
       ]
     },
@@ -550,7 +550,7 @@
           "res": "PLACE",
           "stake": 2.2,
           "profit": -0.11,
-          "bank": 399.41
+          "bank": 671.28
         }
       ]
     },
@@ -574,7 +574,7 @@
           "res": "LOSE",
           "stake": 2.6,
           "profit": -2.6,
-          "bank": 396.81
+          "bank": 668.68
         }
       ]
     },
@@ -598,7 +598,7 @@
           "res": "LOSE",
           "stake": 3.0,
           "profit": -3.0,
-          "bank": 393.81
+          "bank": 665.68
         }
       ]
     }
@@ -613,13 +613,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 64.9,
-  "returned": 108.64,
-  "profit": 43.74,
+  "staked": 70.3,
+  "returned": 120.63,
+  "profit": 50.33,
   "bank": {
-    "start": 350.07,
-    "end": 393.81,
-    "next_stake": 2.1,
+    "start": 615.35,
+    "end": 665.68,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -629,10 +629,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

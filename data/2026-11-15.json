@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "11:40",
@@ -20,9 +20,9 @@
           "trainer": "G Elliott",
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.0,
-          "profit": -1.0,
-          "bank": 385.66
+          "stake": 1.2,
+          "profit": -1.2,
+          "bank": 665.32
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "W P Mullins",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.2,
-          "profit": -0.3,
-          "bank": 385.36
+          "stake": 1.4,
+          "profit": -0.35,
+          "bank": 664.97
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "C E Longsdon",
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.4,
-          "profit": -1.4,
-          "bank": 383.96
+          "stake": 1.6,
+          "profit": -1.6,
+          "bank": 663.37
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "N C Kelly",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.6,
-          "profit": 0.48,
-          "bank": 384.44
+          "stake": 1.8,
+          "profit": 0.54,
+          "bank": 663.91
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "S Drinkwater",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.4,
-          "profit": -0.28,
-          "bank": 384.16
+          "stake": 1.6,
+          "profit": -0.32,
+          "bank": 663.59
         }
       ]
     },
@@ -139,10 +139,10 @@
           "jockey": "Dylan Johnston",
           "trainer": "J Tizzard",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 1.8,
+          "profit": -1.8,
+          "bank": 661.79
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "C Gordon",
           "pos": 1,
           "res": "WIN",
-          "stake": 1.6,
-          "profit": 0.35,
-          "bank": 384.51
+          "stake": 2.0,
+          "profit": 0.44,
+          "bank": 662.23
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "S R B Crawford",
           "pos": 1,
           "res": "WIN",
-          "stake": 1.5,
-          "profit": 7.2,
-          "bank": 391.71
+          "stake": 1.9,
+          "profit": 9.12,
+          "bank": 671.35
         }
       ]
     },
@@ -235,10 +235,10 @@
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 671.05
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "A King",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.34,
-          "bank": 392.05
+          "stake": 0.4,
+          "profit": 0.45,
+          "bank": 671.5
         }
       ]
     },
@@ -286,7 +286,7 @@
           "res": "PLACE",
           "stake": 0.3,
           "profit": -0.03,
-          "bank": 392.02
+          "bank": 671.47
         }
       ]
     },
@@ -331,10 +331,10 @@
           "jockey": "Rian Corcoran",
           "trainer": "D Summersby",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 671.07
         }
       ]
     },
@@ -356,9 +356,9 @@
           "trainer": "G Elliott",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.4,
-          "profit": -0.4,
-          "bank": 391.62
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 670.57
         }
       ]
     },
@@ -380,9 +380,9 @@
           "trainer": "D Skelton",
           "pos": 4,
           "res": "PLACE",
-          "stake": 0.5,
+          "stake": 0.6,
           "profit": 0.0,
-          "bank": 391.62
+          "bank": 670.57
         }
       ]
     },
@@ -404,9 +404,9 @@
           "trainer": "T Britten",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.6,
-          "profit": -0.6,
-          "bank": 391.02
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 669.87
         }
       ]
     },
@@ -428,9 +428,9 @@
           "trainer": "D Queally",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.7,
-          "profit": -0.24,
-          "bank": 390.78
+          "stake": 0.8,
+          "profit": -0.27,
+          "bank": 669.6
         }
       ]
     },
@@ -452,9 +452,9 @@
           "trainer": "T Cooper",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.8,
-          "profit": -0.8,
-          "bank": 389.98
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 668.7
         }
       ]
     }
@@ -462,20 +462,20 @@
   "score": {
     "picks": 19,
     "races": 19,
-    "settled": 14,
+    "settled": 17,
     "won": 3,
     "placed": 6,
-    "lost": 5,
-    "nr": 5,
+    "lost": 8,
+    "nr": 2,
     "pending": 0
   },
-  "staked": 13.3,
-  "returned": 16.62,
-  "profit": 3.32,
+  "staked": 18.2,
+  "returned": 20.38,
+  "profit": 2.18,
   "bank": {
-    "start": 386.66,
-    "end": 389.98,
-    "next_stake": 2.1,
+    "start": 666.52,
+    "end": 668.7,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -485,10 +485,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

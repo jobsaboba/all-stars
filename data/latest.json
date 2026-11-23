@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "12:25",
@@ -19,10 +19,10 @@
           "jockey": "Thomas Bellamy",
           "trainer": "A King",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 1.8,
+          "profit": -1.8,
+          "bank": 697.17
         }
       ]
     },
@@ -43,10 +43,10 @@
           "jockey": "B S Hughes",
           "trainer": "J W Mullins",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 2.1,
+          "profit": -2.1,
+          "bank": 695.07
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "B Pauling",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.5,
-          "profit": -0.53,
-          "bank": 428.41
+          "stake": 2.4,
+          "profit": -0.84,
+          "bank": 694.23
         }
       ]
     },
@@ -91,10 +91,10 @@
           "jockey": "Stan Sheppard",
           "trainer": "H D Daly",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 2.7,
+          "profit": -2.7,
+          "bank": 691.53
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "O Murphy",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.8,
-          "profit": -0.68,
-          "bank": 427.73
+          "stake": 3.0,
+          "profit": -1.12,
+          "bank": 690.41
         }
       ]
     },
@@ -138,11 +138,11 @@
           "odds": "5/1",
           "jockey": "Bryan Carver",
           "trainer": "L Horsfall",
-          "pos": 0,
-          "res": null,
-          "stake": 2.1,
-          "profit": null,
-          "bank": null
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.3,
+          "profit": -3.3,
+          "bank": 687.11
         }
       ]
     },
@@ -164,7 +164,7 @@
           "trainer": "K Bailey & M Nicholls",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -188,7 +188,7 @@
           "trainer": "D Skelton",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -212,7 +212,7 @@
           "trainer": "L Wadham",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "H D Daly",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "O Murphy",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "K R Burke",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "T Culhane & S Barclay",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "R Stephens",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "Charlie Clover",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "Ollie Sangster",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "P T Midgley",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "D Loughnane",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "K Scott",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "K P De Foy",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -620,7 +620,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 2.1,
+          "stake": 3.6,
           "profit": null,
           "bank": null
         }
@@ -630,20 +630,20 @@
   "score": {
     "picks": 26,
     "races": 26,
-    "settled": 2,
+    "settled": 6,
     "won": 0,
     "placed": 2,
-    "lost": 0,
-    "nr": 3,
-    "pending": 21
+    "lost": 4,
+    "nr": 0,
+    "pending": 20
   },
-  "staked": 47.4,
-  "returned": 46.19,
-  "profit": -1.21,
+  "staked": 87.3,
+  "returned": 75.44,
+  "profit": -11.86,
   "bank": {
-    "start": 428.94,
-    "end": 427.73,
-    "next_stake": 2.1,
+    "start": 698.97,
+    "end": 687.11,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -653,10 +653,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

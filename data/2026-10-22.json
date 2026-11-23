@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "11:51",
@@ -20,9 +20,9 @@
           "trainer": "J Tizzard",
           "pos": 1,
           "res": "WIN",
-          "stake": 1.6,
-          "profit": 0.27,
-          "bank": 311.51
+          "stake": 1.7,
+          "profit": 0.29,
+          "bank": 358.74
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "P Hobbs & J White",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.6,
-          "profit": -0.16,
-          "bank": 311.35
+          "stake": 1.7,
+          "profit": -0.17,
+          "bank": 358.57
         }
       ]
     },
@@ -67,10 +67,10 @@
           "jockey": "Harry Cobden",
           "trainer": "Dan Horsford",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 1.9,
+          "profit": -1.9,
+          "bank": 356.67
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "P Hobbs & J White",
           "pos": 1,
           "res": "WIN",
-          "stake": 1.8,
-          "profit": 2.43,
-          "bank": 313.78
+          "stake": 2.1,
+          "profit": 2.84,
+          "bank": 359.51
         }
       ]
     },
@@ -115,10 +115,10 @@
           "jockey": "J M Quinlan",
           "trainer": "R Bandey",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 1.9,
+          "profit": -1.9,
+          "bank": 357.61
         }
       ]
     }
@@ -126,20 +126,20 @@
   "score": {
     "picks": 5,
     "races": 5,
-    "settled": 3,
+    "settled": 5,
     "won": 2,
     "placed": 1,
-    "lost": 0,
-    "nr": 2,
+    "lost": 2,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 5.0,
-  "returned": 7.54,
-  "profit": 2.54,
+  "staked": 9.3,
+  "returned": 8.46,
+  "profit": -0.84,
   "bank": {
-    "start": 311.24,
-    "end": 313.78,
-    "next_stake": 2.1,
+    "start": 358.45,
+    "end": 357.61,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -149,10 +149,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

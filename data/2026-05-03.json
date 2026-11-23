@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "14:53",
@@ -20,9 +20,9 @@
           "trainer": "I Jardine",
           "pos": 8,
           "res": "LOSE",
-          "stake": 4.0,
-          "profit": -4.0,
-          "bank": 3.86
+          "stake": 39.9,
+          "profit": -39.9,
+          "bank": -289.91
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "M & D Easterby",
           "pos": 4,
           "res": "LOSE",
-          "stake": 4.4,
-          "profit": -4.4,
-          "bank": -0.54
+          "stake": 42.4,
+          "profit": -42.4,
+          "bank": -332.31
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "I Jardine",
           "pos": 2,
           "res": "PLACE",
-          "stake": 4.8,
-          "profit": -0.72,
-          "bank": -1.26
+          "stake": 44.9,
+          "profit": -6.73,
+          "bank": -339.04
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 5.2,
-          "profit": 3.74,
-          "bank": 2.48
+          "stake": 47.4,
+          "profit": 34.13,
+          "bank": -304.91
         }
       ]
     }
@@ -109,13 +109,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 18.4,
-  "returned": 13.02,
-  "profit": -5.38,
+  "staked": 174.6,
+  "returned": 119.7,
+  "profit": -54.9,
   "bank": {
-    "start": 7.86,
-    "end": 2.48,
-    "next_stake": 2.1,
+    "start": -250.01,
+    "end": -304.91,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -125,10 +125,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

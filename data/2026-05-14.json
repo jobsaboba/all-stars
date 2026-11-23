@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "12:58",
@@ -20,9 +20,9 @@
           "trainer": "O Murphy",
           "pos": 2,
           "res": "PLACE",
-          "stake": 10.0,
-          "profit": -4.43,
-          "bank": -14.68
+          "stake": 82.3,
+          "profit": -36.45,
+          "bank": -459.59
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "T Lacey",
           "pos": 4,
           "res": "LOSE",
-          "stake": 10.8,
-          "profit": -10.8,
-          "bank": -25.48
+          "stake": 88.0,
+          "profit": -88.0,
+          "bank": -547.59
         }
       ]
     }
@@ -61,13 +61,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 20.8,
-  "returned": 5.57,
-  "profit": -15.23,
+  "staked": 170.3,
+  "returned": 45.85,
+  "profit": -124.45,
   "bank": {
-    "start": -10.25,
-    "end": -25.48,
-    "next_stake": 2.1,
+    "start": -423.14,
+    "end": -547.59,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -77,10 +77,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

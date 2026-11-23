@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "14:30",
@@ -20,9 +20,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 4.5,
-          "profit": 7.42,
-          "bank": 98.78
+          "stake": 4.4,
+          "profit": 7.26,
+          "bank": 317.88
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "C Johnston",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.3,
-          "profit": -0.3,
-          "bank": 98.48
+          "stake": 3.8,
+          "profit": -3.8,
+          "bank": 314.08
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "J S Goldie",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.4,
-          "profit": -0.4,
-          "bank": 98.08
+          "stake": 4.8,
+          "profit": -4.8,
+          "bank": 309.28
         }
       ]
     }
@@ -85,13 +85,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 5.2,
-  "returned": 11.92,
-  "profit": 6.72,
+  "staked": 13.0,
+  "returned": 11.66,
+  "profit": -1.34,
   "bank": {
-    "start": 91.36,
-    "end": 98.08,
-    "next_stake": 2.1,
+    "start": 310.62,
+    "end": 309.28,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -101,10 +101,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

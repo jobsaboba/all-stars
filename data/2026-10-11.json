@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "13:02",
@@ -20,9 +20,9 @@
           "trainer": "J Tizzard",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.27,
-          "bank": 318.75
+          "stake": 0.6,
+          "profit": 0.54,
+          "bank": 367.11
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "N & W Twiston-Davies",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.36,
-          "bank": 319.11
+          "stake": 0.5,
+          "profit": 0.6,
+          "bank": 367.71
         }
       ]
     },
@@ -70,7 +70,7 @@
           "res": "LOSE",
           "stake": 0.3,
           "profit": -0.3,
-          "bank": 318.81
+          "bank": 367.41
         }
       ]
     },
@@ -94,7 +94,7 @@
           "res": "LOSE",
           "stake": 0.4,
           "profit": -0.4,
-          "bank": 318.41
+          "bank": 367.01
         }
       ]
     }
@@ -109,13 +109,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 1.3,
-  "returned": 1.23,
-  "profit": -0.07,
+  "staked": 1.8,
+  "returned": 2.24,
+  "profit": 0.44,
   "bank": {
-    "start": 318.48,
-    "end": 318.41,
-    "next_stake": 2.1,
+    "start": 366.57,
+    "end": 367.01,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -125,10 +125,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

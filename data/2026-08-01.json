@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "18:00",
@@ -20,9 +20,9 @@
           "trainer": "S Lycett",
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.4,
-          "profit": -2.4,
-          "bank": 86.73
+          "stake": 16.8,
+          "profit": -16.8,
+          "bank": 221.99
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "E Bethell",
           "pos": 1,
           "res": "WIN",
-          "stake": 2.6,
-          "profit": 4.68,
-          "bank": 91.41
+          "stake": 18.0,
+          "profit": 32.4,
+          "bank": 254.39
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Miss J A Camacho",
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.4,
+          "stake": 17.0,
           "profit": 0.0,
-          "bank": 91.41
+          "bank": 254.39
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "R A Fahey",
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.6,
-          "profit": -0.65,
-          "bank": 90.76
+          "stake": 18.4,
+          "profit": -4.6,
+          "bank": 249.79
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "D O'Meara",
           "pos": 1,
           "res": "WIN",
-          "stake": 2.8,
-          "profit": 1.85,
-          "bank": 92.61
+          "stake": 19.8,
+          "profit": 13.07,
+          "bank": 262.86
         }
       ]
     }
@@ -133,13 +133,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 12.8,
-  "returned": 16.28,
-  "profit": 3.48,
+  "staked": 90.0,
+  "returned": 114.07,
+  "profit": 24.07,
   "bank": {
-    "start": 89.13,
-    "end": 92.61,
-    "next_stake": 2.1,
+    "start": 238.79,
+    "end": 262.86,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -149,10 +149,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

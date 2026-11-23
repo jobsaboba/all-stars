@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "13:35",
@@ -22,7 +22,7 @@
           "res": "LOSE",
           "stake": 0.3,
           "profit": -0.3,
-          "bank": 17.53
+          "bank": 14.15
         }
       ]
     },
@@ -46,7 +46,7 @@
           "res": "WIN",
           "stake": 0.4,
           "profit": 0.16,
-          "bank": 17.69
+          "bank": 14.31
         }
       ]
     },
@@ -67,10 +67,10 @@
           "jockey": "S Bowen",
           "trainer": "G Elliott",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 13.91
         }
       ]
     },
@@ -91,10 +91,10 @@
           "jockey": "Craig Nichol",
           "trainer": "D W Whillans",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 13.31
         }
       ]
     }
@@ -102,20 +102,20 @@
   "score": {
     "picks": 4,
     "races": 4,
-    "settled": 2,
+    "settled": 4,
     "won": 1,
     "placed": 0,
-    "lost": 1,
-    "nr": 2,
+    "lost": 3,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 0.7,
+  "staked": 1.7,
   "returned": 0.56,
-  "profit": -0.14,
+  "profit": -1.14,
   "bank": {
-    "start": 17.83,
-    "end": 17.69,
-    "next_stake": 2.1,
+    "start": 14.45,
+    "end": 13.31,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -125,10 +125,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "13:40",
@@ -20,9 +20,9 @@
           "trainer": "T Davidson",
           "pos": 1,
           "res": "WIN",
-          "stake": 3.0,
-          "profit": 1.03,
-          "bank": 14.04
+          "stake": 34.3,
+          "profit": 11.76,
+          "bank": -180.84
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "J Candlish",
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.8,
-          "profit": -2.8,
-          "bank": 11.24
+          "stake": 32.4,
+          "profit": -32.4,
+          "bank": -213.24
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "I Jardine",
           "pos": 6,
           "res": "LOSE",
-          "stake": 3.2,
-          "profit": -3.2,
-          "bank": 8.04
+          "stake": 34.9,
+          "profit": -34.9,
+          "bank": -248.14
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "I Jardine",
           "pos": 2,
           "res": "PLACE",
-          "stake": 3.6,
-          "profit": -0.18,
-          "bank": 7.86
+          "stake": 37.4,
+          "profit": -1.87,
+          "bank": -250.01
         }
       ]
     }
@@ -109,13 +109,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 12.6,
-  "returned": 7.45,
-  "profit": -5.15,
+  "staked": 139.0,
+  "returned": 81.59,
+  "profit": -57.41,
   "bank": {
-    "start": 13.01,
-    "end": 7.86,
-    "next_stake": 2.1,
+    "start": -192.6,
+    "end": -250.01,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -125,10 +125,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "16:30",
@@ -20,9 +20,9 @@
           "trainer": "J S Goldie",
           "pos": 4,
           "res": "LOSE",
-          "stake": 11.6,
-          "profit": -11.6,
-          "bank": -37.08
+          "stake": 93.7,
+          "profit": -93.7,
+          "bank": -641.29
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "D O'Meara",
           "pos": 8,
           "res": "LOSE",
-          "stake": 12.4,
-          "profit": -12.4,
-          "bank": -49.48
+          "stake": 99.4,
+          "profit": -99.4,
+          "bank": -740.69
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "E Bethell",
           "pos": 2,
           "res": "PLACE",
-          "stake": 13.2,
-          "profit": -5.15,
-          "bank": -54.63
+          "stake": 105.1,
+          "profit": -40.99,
+          "bank": -781.68
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "T D Easterby",
           "pos": 1,
           "res": "WIN",
-          "stake": 14.0,
-          "profit": 18.9,
-          "bank": -35.73
+          "stake": 110.8,
+          "profit": 149.58,
+          "bank": -632.1
         }
       ]
     }
@@ -109,13 +109,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 51.2,
-  "returned": 40.95,
-  "profit": -10.25,
+  "staked": 409.0,
+  "returned": 324.49,
+  "profit": -84.51,
   "bank": {
-    "start": -25.48,
-    "end": -35.73,
-    "next_stake": 2.1,
+    "start": -547.59,
+    "end": -632.1,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -125,10 +125,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-24",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "12:30",
@@ -20,9 +20,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 1.0,
-          "profit": 0.18,
-          "bank": 22.84
+          "stake": 13.5,
+          "profit": 2.43,
+          "bank": -26.34
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "Christian Williams",
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.0,
-          "profit": -1.0,
-          "bank": 21.84
+          "stake": 12.5,
+          "profit": -12.5,
+          "bank": -38.84
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "O Murphy",
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.2,
-          "profit": -1.2,
-          "bank": 20.64
+          "stake": 14.1,
+          "profit": -14.1,
+          "bank": -52.94
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "Christian Williams",
           "pos": 1,
           "res": "WIN",
-          "stake": 1.4,
-          "profit": 0.92,
-          "bank": 21.56
+          "stake": 15.7,
+          "profit": 10.36,
+          "bank": -42.58
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "W Greatrex",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.2,
-          "profit": -0.5,
-          "bank": 21.06
+          "stake": 14.4,
+          "profit": -6.0,
+          "bank": -48.58
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "R Menzies",
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.4,
-          "profit": -1.4,
-          "bank": 19.66
+          "stake": 16.3,
+          "profit": -16.3,
+          "bank": -64.88
         }
       ]
     },
@@ -163,10 +163,10 @@
           "jockey": "Sean Houlihan",
           "trainer": "R Stephens",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 18.2,
+          "profit": -18.2,
+          "bank": -83.08
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "A J Martin",
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.6,
-          "profit": -1.6,
-          "bank": 18.06
+          "stake": 20.1,
+          "profit": -20.1,
+          "bank": -103.18
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "P F Nicholls",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.8,
-          "profit": -0.3,
-          "bank": 17.76
+          "stake": 22.0,
+          "profit": -3.67,
+          "bank": -106.85
         }
       ]
     }
@@ -222,20 +222,20 @@
   "score": {
     "picks": 9,
     "races": 9,
-    "settled": 8,
+    "settled": 9,
     "won": 2,
     "placed": 2,
-    "lost": 4,
-    "nr": 1,
+    "lost": 5,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 10.6,
-  "returned": 5.7,
-  "profit": -4.9,
+  "staked": 146.8,
+  "returned": 68.72,
+  "profit": -78.08,
   "bank": {
-    "start": 22.66,
-    "end": 17.76,
-    "next_stake": 2.1,
+    "start": -28.77,
+    "end": -106.85,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -245,10 +245,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

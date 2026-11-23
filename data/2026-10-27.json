@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "13:46",
@@ -20,9 +20,9 @@
           "trainer": "N & W Twiston-Davies",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.6,
-          "profit": 0.24,
-          "bank": 319.3
+          "stake": 2.0,
+          "profit": 0.3,
+          "bank": 364.84
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.07,
-          "bank": 319.37
+          "stake": 1.9,
+          "profit": 0.46,
+          "bank": 365.3
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "D Skelton",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.3,
-          "profit": -0.3,
-          "bank": 319.07
+          "stake": 1.9,
+          "profit": -1.9,
+          "bank": 363.4
         }
       ]
     },
@@ -91,10 +91,10 @@
           "jockey": "Liam Harrison",
           "trainer": "F O'Brien",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 2.4,
+          "profit": -2.4,
+          "bank": 361.0
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "D McCain Jnr",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": -0.08,
-          "bank": 318.99
+          "stake": 2.9,
+          "profit": -0.58,
+          "bank": 360.42
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "D Skelton",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.5,
-          "profit": -0.5,
-          "bank": 318.49
+          "stake": 3.4,
+          "profit": -3.4,
+          "bank": 357.02
         }
       ]
     }
@@ -150,20 +150,20 @@
   "score": {
     "picks": 6,
     "races": 6,
-    "settled": 5,
+    "settled": 6,
     "won": 1,
     "placed": 2,
-    "lost": 2,
-    "nr": 1,
+    "lost": 3,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 3.1,
-  "returned": 2.53,
-  "profit": -0.57,
+  "staked": 14.5,
+  "returned": 6.98,
+  "profit": -7.52,
   "bank": {
-    "start": 319.06,
-    "end": 318.49,
-    "next_stake": 2.1,
+    "start": 364.54,
+    "end": 357.02,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -173,10 +173,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "11:20",
@@ -22,7 +22,7 @@
           "res": "WIN",
           "stake": 0.6,
           "profit": 2.88,
-          "bank": 414.3
+          "bank": 686.15
         }
       ]
     },
@@ -46,7 +46,7 @@
           "res": "PLACE",
           "stake": 0.3,
           "profit": -0.07,
-          "bank": 414.23
+          "bank": 686.08
         }
       ]
     },
@@ -70,7 +70,7 @@
           "res": "LOSE",
           "stake": 0.4,
           "profit": -0.4,
-          "bank": 413.83
+          "bank": 685.68
         }
       ]
     },
@@ -94,7 +94,7 @@
           "res": "WIN",
           "stake": 0.5,
           "profit": 1.05,
-          "bank": 414.88
+          "bank": 686.73
         }
       ]
     },
@@ -142,7 +142,7 @@
           "res": "LOSE",
           "stake": 0.3,
           "profit": -0.3,
-          "bank": 414.58
+          "bank": 686.43
         }
       ]
     },
@@ -166,7 +166,7 @@
           "res": "PLACE",
           "stake": 0.4,
           "profit": 0.12,
-          "bank": 414.7
+          "bank": 686.55
         }
       ]
     },
@@ -190,7 +190,7 @@
           "res": "PLACE",
           "stake": 0.4,
           "profit": 0.04,
-          "bank": 414.74
+          "bank": 686.59
         }
       ]
     },
@@ -214,7 +214,7 @@
           "res": "WIN",
           "stake": 0.3,
           "profit": 0.6,
-          "bank": 415.34
+          "bank": 687.19
         }
       ]
     },
@@ -238,7 +238,7 @@
           "res": "PLACE",
           "stake": 0.3,
           "profit": 0.15,
-          "bank": 415.49
+          "bank": 687.34
         }
       ]
     },
@@ -262,7 +262,7 @@
           "res": "WIN",
           "stake": 0.3,
           "profit": 0.9,
-          "bank": 416.39
+          "bank": 688.24
         }
       ]
     },
@@ -286,7 +286,7 @@
           "res": "PLACE",
           "stake": 0.3,
           "profit": -0.07,
-          "bank": 416.32
+          "bank": 688.17
         }
       ]
     },
@@ -310,7 +310,7 @@
           "res": "LOSE",
           "stake": 0.4,
           "profit": -0.4,
-          "bank": 415.92
+          "bank": 687.77
         }
       ]
     },
@@ -331,10 +331,10 @@
           "jockey": "Jack Tudor",
           "trainer": "Christian Williams",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 687.27
         }
       ]
     },
@@ -356,9 +356,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.5,
-          "profit": 0.9,
-          "bank": 416.82
+          "stake": 0.6,
+          "profit": 1.08,
+          "bank": 688.35
         }
       ]
     },
@@ -382,7 +382,7 @@
           "res": "PLACE",
           "stake": 0.3,
           "profit": 0.06,
-          "bank": 416.88
+          "bank": 688.41
         }
       ]
     },
@@ -406,7 +406,7 @@
           "res": "WIN",
           "stake": 0.3,
           "profit": 0.4,
-          "bank": 417.28
+          "bank": 688.81
         }
       ]
     },
@@ -430,7 +430,7 @@
           "res": "WIN",
           "stake": 0.3,
           "profit": 0.63,
-          "bank": 417.91
+          "bank": 689.44
         }
       ]
     },
@@ -454,7 +454,7 @@
           "res": "LOSE",
           "stake": 0.3,
           "profit": -0.3,
-          "bank": 417.61
+          "bank": 689.14
         }
       ]
     },
@@ -478,7 +478,7 @@
           "res": "PLACE",
           "stake": 0.4,
           "profit": -0.17,
-          "bank": 417.44
+          "bank": 688.97
         }
       ]
     },
@@ -502,7 +502,7 @@
           "res": "LOSE",
           "stake": 0.5,
           "profit": -0.5,
-          "bank": 416.94
+          "bank": 688.47
         }
       ]
     },
@@ -526,7 +526,7 @@
           "res": "LOSE",
           "stake": 0.6,
           "profit": -0.6,
-          "bank": 416.34
+          "bank": 687.87
         }
       ]
     },
@@ -550,7 +550,7 @@
           "res": "LOSE",
           "stake": 0.7,
           "profit": -0.7,
-          "bank": 415.64
+          "bank": 687.17
         }
       ]
     },
@@ -574,7 +574,7 @@
           "res": "WIN",
           "stake": 0.8,
           "profit": 1.68,
-          "bank": 417.32
+          "bank": 688.85
         }
       ]
     },
@@ -598,7 +598,7 @@
           "res": "LOSE",
           "stake": 0.8,
           "profit": -0.8,
-          "bank": 416.52
+          "bank": 688.05
         }
       ]
     },
@@ -622,7 +622,7 @@
           "res": "PLACE",
           "stake": 1.0,
           "profit": 0.0,
-          "bank": 416.52
+          "bank": 688.05
         }
       ]
     },
@@ -646,7 +646,7 @@
           "res": "WIN",
           "stake": 1.2,
           "profit": 4.32,
-          "bank": 420.84
+          "bank": 692.37
         }
       ]
     },
@@ -670,7 +670,7 @@
           "res": "WIN",
           "stake": 0.3,
           "profit": 2.88,
-          "bank": 423.72
+          "bank": 695.25
         }
       ]
     },
@@ -694,7 +694,7 @@
           "res": "WIN",
           "stake": 0.3,
           "profit": 0.81,
-          "bank": 424.53
+          "bank": 696.06
         }
       ]
     },
@@ -718,7 +718,7 @@
           "res": "LOSE",
           "stake": 0.3,
           "profit": -0.3,
-          "bank": 424.23
+          "bank": 695.76
         }
       ]
     }
@@ -726,20 +726,20 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 28,
+    "settled": 29,
     "won": 11,
     "placed": 8,
-    "lost": 9,
-    "nr": 2,
+    "lost": 10,
+    "nr": 1,
     "pending": 0
   },
-  "staked": 13.1,
-  "returned": 25.91,
-  "profit": 12.81,
+  "staked": 13.7,
+  "returned": 26.19,
+  "profit": 12.49,
   "bank": {
-    "start": 411.42,
-    "end": 424.23,
-    "next_stake": 2.1,
+    "start": 683.27,
+    "end": 695.76,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -749,10 +749,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

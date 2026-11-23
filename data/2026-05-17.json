@@ -1,6 +1,6 @@
 {
   "date": "2026-05-17",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "15:15",
@@ -20,9 +20,9 @@
           "trainer": "T D Easterby",
           "pos": 1,
           "res": "WIN",
-          "stake": 13.8,
-          "profit": 18.63,
-          "bank": 22.04
+          "stake": 109.0,
+          "profit": 147.15,
+          "bank": -178.23
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R Varian",
           "pos": 3,
           "res": "PLACE",
-          "stake": 13.2,
-          "profit": -3.3,
-          "bank": 18.74
+          "stake": 104.6,
+          "profit": -26.15,
+          "bank": -204.38
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "J S Goldie",
           "pos": 9,
           "res": "LOSE",
-          "stake": 14.8,
-          "profit": -14.8,
-          "bank": 3.94
+          "stake": 115.5,
+          "profit": -115.5,
+          "bank": -319.88
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "W J Haggas",
           "pos": 3,
           "res": "PLACE",
-          "stake": 16.4,
+          "stake": 126.4,
           "profit": 0.0,
-          "bank": 3.94
+          "bank": -319.88
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "J S Goldie",
           "pos": 13,
           "res": "LOSE",
-          "stake": 18.0,
-          "profit": -18.0,
-          "bank": -14.06
+          "stake": 137.3,
+          "profit": -137.3,
+          "bank": -457.18
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 19.6,
-          "profit": 29.4,
-          "bank": 15.34
+          "stake": 148.2,
+          "profit": 222.3,
+          "bank": -234.88
         }
       ]
     }
@@ -157,13 +157,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 95.8,
-  "returned": 107.73,
-  "profit": 11.93,
+  "staked": 741.0,
+  "returned": 831.5,
+  "profit": 90.5,
   "bank": {
-    "start": 3.41,
-    "end": 15.34,
-    "next_stake": 2.1,
+    "start": -325.38,
+    "end": -234.88,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -173,10 +173,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

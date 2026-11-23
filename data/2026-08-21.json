@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "14:55",
@@ -20,9 +20,9 @@
           "trainer": "D O'Meara",
           "pos": 3,
           "res": "PLACE",
-          "stake": 9.0,
+          "stake": 95.2,
           "profit": 0.0,
-          "bank": 55.21
+          "bank": -372.99
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R A Teal",
           "pos": 2,
           "res": "PLACE",
-          "stake": 10.2,
-          "profit": -2.55,
-          "bank": 52.66
+          "stake": 102.4,
+          "profit": -25.6,
+          "bank": -398.59
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "M P Tregoning",
           "pos": 2,
           "res": "PLACE",
-          "stake": 11.4,
-          "profit": -3.13,
-          "bank": 49.53
+          "stake": 109.6,
+          "profit": -30.14,
+          "bank": -428.73
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "W J Haggas",
           "pos": 6,
           "res": "LOSE",
-          "stake": 12.6,
-          "profit": -12.6,
-          "bank": 36.93
+          "stake": 116.8,
+          "profit": -116.8,
+          "bank": -545.53
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "W J Haggas",
           "pos": 3,
           "res": "PLACE",
-          "stake": 13.8,
-          "profit": -0.69,
-          "bank": 36.24
+          "stake": 124.0,
+          "profit": -6.2,
+          "bank": -551.73
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 15.0,
-          "profit": 30.0,
-          "bank": 66.24
+          "stake": 131.2,
+          "profit": 262.4,
+          "bank": -289.33
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "J & S Quinn",
           "pos": 8,
           "res": "LOSE",
-          "stake": 14.4,
-          "profit": -14.4,
-          "bank": 51.84
+          "stake": 125.2,
+          "profit": -125.2,
+          "bank": -414.53
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "J S Goldie",
           "pos": 3,
           "res": "PLACE",
-          "stake": 16.2,
-          "profit": -1.62,
-          "bank": 50.22
+          "stake": 133.6,
+          "profit": -13.36,
+          "bank": -427.89
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "T D Easterby",
           "pos": 3,
           "res": "PLACE",
-          "stake": 18.0,
-          "profit": -6.53,
-          "bank": 43.69
+          "stake": 142.0,
+          "profit": -51.47,
+          "bank": -479.36
         }
       ]
     }
@@ -229,13 +229,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 120.6,
-  "returned": 109.08,
-  "profit": -11.52,
+  "staked": 1080.0,
+  "returned": 973.63,
+  "profit": -106.37,
   "bank": {
-    "start": 55.21,
-    "end": 43.69,
-    "next_stake": 2.1,
+    "start": -372.99,
+    "end": -479.36,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -245,10 +245,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

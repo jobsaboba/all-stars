@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "13:50",
@@ -20,9 +20,9 @@
           "trainer": "L Russell & M Scudamore",
           "pos": 5,
           "res": "LOSE",
-          "stake": 7.2,
-          "profit": -7.2,
-          "bank": 57.77
+          "stake": 83.2,
+          "profit": -83.2,
+          "bank": -343.22
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "J C McConnell",
           "pos": 3,
           "res": "PLACE",
-          "stake": 7.8,
-          "profit": -1.3,
-          "bank": 56.47
+          "stake": 88.0,
+          "profit": -14.67,
+          "bank": -357.89
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Miss L Harrison",
           "pos": 4,
           "res": "LOSE",
-          "stake": 8.4,
-          "profit": -8.4,
-          "bank": 48.07
+          "stake": 92.8,
+          "profit": -92.8,
+          "bank": -450.69
         }
       ]
     }
@@ -85,13 +85,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 23.4,
-  "returned": 6.5,
-  "profit": -16.9,
+  "staked": 264.0,
+  "returned": 73.33,
+  "profit": -190.67,
   "bank": {
-    "start": 64.97,
-    "end": 48.07,
-    "next_stake": 2.1,
+    "start": -260.02,
+    "end": -450.69,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -101,10 +101,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

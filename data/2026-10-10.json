@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "12:35",
@@ -22,7 +22,7 @@
           "res": "LOSE",
           "stake": 3.1,
           "profit": -3.1,
-          "bank": 290.43
+          "bank": 339.52
         }
       ]
     },
@@ -43,10 +43,10 @@
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 3.5,
+          "profit": -3.5,
+          "bank": 336.02
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "P F Nicholls",
           "pos": 2,
           "res": "PLACE",
-          "stake": 3.5,
-          "profit": -1.47,
-          "bank": 318.36
+          "stake": 3.9,
+          "profit": -1.64,
+          "bank": 367.14
         },
         {
           "rank": 2,
@@ -81,9 +81,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 3.5,
-          "profit": 29.4,
-          "bank": 318.36
+          "stake": 3.9,
+          "profit": 32.76,
+          "bank": 367.14
         }
       ]
     },
@@ -107,7 +107,7 @@
           "res": "LOSE",
           "stake": 0.3,
           "profit": -0.3,
-          "bank": 318.06
+          "bank": 366.84
         }
       ]
     },
@@ -128,10 +128,10 @@
           "jockey": "J J Slevin",
           "trainer": "N & W Twiston-Davies",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 366.44
         }
       ]
     },
@@ -152,10 +152,10 @@
           "jockey": "Benjamin Poste",
           "trainer": "T Symonds",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 365.94
         }
       ]
     },
@@ -177,9 +177,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "profit": 0.42,
-          "bank": 318.48
+          "stake": 0.6,
+          "profit": 0.63,
+          "bank": 366.57
         }
       ]
     }
@@ -187,20 +187,20 @@
   "score": {
     "picks": 8,
     "races": 7,
-    "settled": 5,
+    "settled": 8,
     "won": 2,
     "placed": 1,
-    "lost": 2,
-    "nr": 3,
+    "lost": 5,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 10.8,
-  "returned": 35.75,
-  "profit": 24.95,
+  "staked": 16.2,
+  "returned": 40.15,
+  "profit": 23.95,
   "bank": {
-    "start": 293.53,
-    "end": 318.48,
-    "next_stake": 2.1,
+    "start": 342.62,
+    "end": 366.57,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -210,10 +210,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

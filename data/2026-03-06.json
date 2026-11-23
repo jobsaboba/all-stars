@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "15:20",
@@ -20,9 +20,9 @@
           "trainer": "J & A O'Neill",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.3,
-          "profit": -0.13,
-          "bank": 18.24
+          "stake": 1.4,
+          "profit": -0.61,
+          "bank": 12.31
         }
       ]
     },
@@ -43,10 +43,10 @@
           "jockey": "Lewis Stones",
           "trainer": "J Candlish",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 1.9,
+          "profit": -1.9,
+          "bank": 10.41
         }
       ]
     }
@@ -54,20 +54,20 @@
   "score": {
     "picks": 2,
     "races": 2,
-    "settled": 1,
+    "settled": 2,
     "won": 0,
     "placed": 1,
-    "lost": 0,
-    "nr": 1,
+    "lost": 1,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 0.3,
-  "returned": 0.17,
-  "profit": -0.13,
+  "staked": 3.3,
+  "returned": 0.79,
+  "profit": -2.51,
   "bank": {
-    "start": 18.37,
-    "end": 18.24,
-    "next_stake": 2.1,
+    "start": 12.92,
+    "end": 10.41,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -77,10 +77,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

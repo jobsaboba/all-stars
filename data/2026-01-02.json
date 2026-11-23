@@ -1,6 +1,6 @@
 {
   "date": "2026-01-02",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "12:30",
@@ -20,9 +20,9 @@
           "trainer": "O Murphy",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.5,
-          "profit": 0.82,
-          "bank": 11.47
+          "stake": 0.6,
+          "profit": 0.99,
+          "bank": 11.14
         }
       ]
     },
@@ -46,7 +46,7 @@
           "res": "PLACE",
           "stake": 0.3,
           "profit": -0.12,
-          "bank": 11.35
+          "bank": 11.02
         }
       ]
     },
@@ -70,7 +70,7 @@
           "res": "LOSE",
           "stake": 0.4,
           "profit": -0.4,
-          "bank": 10.95
+          "bank": 10.62
         }
       ]
     },
@@ -91,10 +91,10 @@
           "jockey": "Bruce Lynn",
           "trainer": "N W Alexander",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 10.12
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "C Grant",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.5,
-          "profit": -0.5,
-          "bank": 10.45
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 9.52
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "I A Duncan",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.6,
-          "profit": -0.09,
-          "bank": 10.36
+          "stake": 0.7,
+          "profit": -0.1,
+          "bank": 9.42
         }
       ]
     }
@@ -150,20 +150,20 @@
   "score": {
     "picks": 6,
     "races": 6,
-    "settled": 5,
+    "settled": 6,
     "won": 1,
     "placed": 2,
-    "lost": 2,
-    "nr": 1,
+    "lost": 3,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 2.3,
-  "returned": 2.01,
-  "profit": -0.29,
+  "staked": 3.1,
+  "returned": 2.37,
+  "profit": -0.73,
   "bank": {
-    "start": 10.65,
-    "end": 10.36,
-    "next_stake": 2.1,
+    "start": 10.15,
+    "end": 9.42,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -173,10 +173,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

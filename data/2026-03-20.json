@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "14:20",
@@ -20,9 +20,9 @@
           "trainer": "D McCain Jnr",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.8,
-          "profit": 1.08,
-          "bank": 17.8
+          "stake": 4.4,
+          "profit": 5.94,
+          "bank": 7.66
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R Menzies",
           "pos": 14,
           "res": "LOSE",
-          "stake": 0.8,
-          "profit": -0.8,
-          "bank": 17.0
+          "stake": 4.1,
+          "profit": -4.1,
+          "bank": 3.56
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "J & A O'Neill",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.0,
-          "profit": -0.35,
-          "bank": 16.65
+          "stake": 4.8,
+          "profit": -1.68,
+          "bank": 1.88
         }
       ]
     }
@@ -85,13 +85,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 2.6,
-  "returned": 2.53,
-  "profit": -0.07,
+  "staked": 13.3,
+  "returned": 13.46,
+  "profit": 0.16,
   "bank": {
-    "start": 16.72,
-    "end": 16.65,
-    "next_stake": 2.1,
+    "start": 1.72,
+    "end": 1.88,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -101,10 +101,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

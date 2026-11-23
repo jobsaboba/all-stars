@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "13:45",
@@ -20,9 +20,9 @@
           "trainer": "C G Cox",
           "pos": 3,
           "res": "PLACE",
-          "stake": 9.0,
-          "profit": -2.7,
-          "bank": 45.37
+          "stake": 97.6,
+          "profit": -29.28,
+          "bank": -479.97
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "J L Flint",
           "pos": 2,
           "res": "PLACE",
-          "stake": 9.6,
-          "profit": 3.36,
-          "bank": 48.73
+          "stake": 102.4,
+          "profit": 35.84,
+          "bank": -444.13
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "D M Loughnane",
           "pos": 1,
           "res": "WIN",
-          "stake": 9.0,
-          "profit": 6.48,
-          "bank": 55.21
+          "stake": 98.8,
+          "profit": 71.14,
+          "bank": -372.99
         }
       ]
     }
@@ -85,13 +85,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 27.6,
-  "returned": 34.74,
-  "profit": 7.14,
+  "staked": 298.8,
+  "returned": 376.5,
+  "profit": 77.7,
   "bank": {
-    "start": 48.07,
-    "end": 55.21,
-    "next_stake": 2.1,
+    "start": -450.69,
+    "end": -372.99,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -101,10 +101,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "updated": "2026-11-23T13:31:06+0000",
+  "updated": "2026-11-23T14:14:45+0000",
   "races": [
     {
       "time": "13:15",
@@ -20,9 +20,9 @@
           "trainer": "J & S Quinn",
           "pos": 1,
           "res": "WIN",
-          "stake": 19.8,
-          "profit": 3.96,
-          "bank": 47.65
+          "stake": 150.4,
+          "profit": 30.08,
+          "bank": -449.28
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "I Jardine",
           "pos": 8,
           "res": "LOSE",
-          "stake": 18.6,
-          "profit": -18.6,
-          "bank": 29.05
+          "stake": 143.2,
+          "profit": -143.2,
+          "bank": -592.48
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "I Furtado",
           "pos": 2,
           "res": "PLACE",
-          "stake": 21.0,
-          "profit": -5.77,
-          "bank": 23.28
+          "stake": 152.8,
+          "profit": -42.02,
+          "bank": -634.5
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "M & D Easterby",
           "pos": 8,
           "res": "LOSE",
-          "stake": 23.4,
-          "profit": -23.4,
-          "bank": -0.12
+          "stake": 162.4,
+          "profit": -162.4,
+          "bank": -796.9
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "Gary Rutherford",
           "pos": 8,
           "res": "LOSE",
-          "stake": 25.8,
-          "profit": -25.8,
-          "bank": -25.92
+          "stake": 172.0,
+          "profit": -172.0,
+          "bank": -968.9
         }
       ]
     }
@@ -133,13 +133,13 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 108.6,
-  "returned": 38.99,
-  "profit": -69.61,
+  "staked": 780.8,
+  "returned": 291.26,
+  "profit": -489.54,
   "bank": {
-    "start": 43.69,
-    "end": -25.92,
-    "next_stake": 2.1,
+    "start": -479.36,
+    "end": -968.9,
+    "next_stake": 3.6,
     "ladder": [
       3,
       4,
@@ -149,10 +149,15 @@
       9,
       12,
       15,
-      18
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 427.73
+    "season_end": 687.11
   }
 }
