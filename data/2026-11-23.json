@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T19:31:10+0000",
+  "updated": "2026-11-23T20:01:30+0000",
   "races": [
     {
       "time": "12:25",
@@ -546,11 +546,11 @@
           "odds": "9/2",
           "jockey": "Hollie Doyle",
           "trainer": "D Loughnane",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": -0.03,
+          "bank": 704.19
         }
       ]
     },
@@ -570,11 +570,11 @@
           "odds": "7/1",
           "jockey": "Jason Hart",
           "trainer": "K Scott",
-          "pos": 0,
-          "res": null,
-          "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.8,
+          "profit": 0.16,
+          "bank": 704.35
         }
       ]
     },
@@ -596,7 +596,7 @@
           "trainer": "K P De Foy",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.8,
           "profit": null,
           "bank": null
         }
@@ -620,7 +620,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.8,
           "profit": null,
           "bank": null
         }
@@ -630,22 +630,21 @@
   "score": {
     "picks": 26,
     "races": 26,
-    "settled": 22,
+    "settled": 24,
     "won": 5,
-    "placed": 5,
+    "placed": 7,
     "lost": 12,
     "nr": 0,
-    "pending": 4
+    "pending": 2
   },
-  "staked": 39.0,
-  "returned": 44.25,
-  "profit": 5.25,
+  "staked": 39.3,
+  "returned": 44.68,
+  "profit": 5.38,
   "bank": {
     "start": 698.97,
-    "end": 704.22,
-    "next_stake": 0.7,
+    "end": 704.35,
+    "next_stake": 0.8,
     "ladder": [
-      1,
       2,
       2,
       3,
@@ -655,6 +654,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 704.22
+    "season_end": 704.35
   }
 }
