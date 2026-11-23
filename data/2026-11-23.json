@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T16:01:25+0000",
+  "updated": "2026-11-23T16:31:09+0000",
   "races": [
     {
       "time": "12:25",
@@ -282,11 +282,11 @@
           "odds": "13/8",
           "jockey": "Cieren Fallon",
           "trainer": "W J Haggas",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 704.6
         }
       ]
     },
@@ -308,7 +308,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "K R Burke",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "T Culhane & S Barclay",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "R Stephens",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "Charlie Clover",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "Ollie Sangster",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "P T Midgley",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "D Loughnane",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "K Scott",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "K P De Foy",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -620,7 +620,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.4,
           "profit": null,
           "bank": null
         }
@@ -630,27 +630,28 @@
   "score": {
     "picks": 26,
     "races": 26,
-    "settled": 11,
+    "settled": 12,
     "won": 3,
     "placed": 3,
-    "lost": 5,
+    "lost": 6,
     "nr": 0,
-    "pending": 15
+    "pending": 14
   },
-  "staked": 35.1,
-  "returned": 41.03,
-  "profit": 5.93,
+  "staked": 36.5,
+  "returned": 42.13,
+  "profit": 5.63,
   "bank": {
     "start": 698.97,
-    "end": 704.9,
-    "next_stake": 0.3,
+    "end": 704.6,
+    "next_stake": 0.4,
     "ladder": [
       1,
       2,
-      2
+      2,
+      3
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 704.9
+    "season_end": 704.6
   }
 }
