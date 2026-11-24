@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T17:31:20+0000",
+  "updated": "2026-11-24T18:02:33+0000",
   "races": [
     {
       "time": "11:56",
@@ -618,11 +618,11 @@
           "odds": "10/11",
           "jockey": "Billy Loughnane",
           "trainer": "C Appleby",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 1.6,
-          "profit": null,
-          "bank": null
+          "profit": -0.65,
+          "bank": 705.04
         }
       ]
     },
@@ -644,7 +644,7 @@
           "trainer": "J & T Gosden",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 1.8,
           "profit": null,
           "bank": null
         }
@@ -668,7 +668,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 1.8,
           "profit": null,
           "bank": null
         }
@@ -692,7 +692,7 @@
           "trainer": "G Tutty",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 1.8,
           "profit": null,
           "bank": null
         }
@@ -716,7 +716,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 1.8,
           "profit": null,
           "bank": null
         }
@@ -740,7 +740,7 @@
           "trainer": "J G Portman",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 1.8,
           "profit": null,
           "bank": null
         }
@@ -750,20 +750,20 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 23,
+    "settled": 24,
     "won": 8,
-    "placed": 5,
+    "placed": 6,
     "lost": 10,
     "nr": 2,
-    "pending": 6
+    "pending": 5
   },
-  "staked": 23.4,
-  "returned": 21.2,
-  "profit": -2.2,
+  "staked": 24.4,
+  "returned": 21.55,
+  "profit": -2.85,
   "bank": {
     "start": 707.89,
-    "end": 705.69,
-    "next_stake": 1.6,
+    "end": 705.04,
+    "next_stake": 1.8,
     "ladder": [
       2,
       3,
@@ -772,10 +772,11 @@
       8,
       10,
       12,
-      14
+      14,
+      16
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 705.69
+    "season_end": 705.04
   }
 }
