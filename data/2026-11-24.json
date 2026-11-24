@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T13:01:26+0000",
+  "updated": "2026-11-24T13:31:12+0000",
   "races": [
     {
       "time": "11:56",
@@ -138,11 +138,11 @@
           "odds": "7/2",
           "jockey": "Sam Twiston-Davies",
           "trainer": "N & W Twiston-Davies",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 709.09
         }
       ]
     },
@@ -162,11 +162,11 @@
           "odds": "5/2",
           "jockey": "Tyler Heard",
           "trainer": "M D I Usher",
-          "pos": 0,
-          "res": null,
-          "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 708.69
         }
       ]
     },
@@ -186,11 +186,11 @@
           "odds": "1/3",
           "jockey": "Brian Hayes",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
-          "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 0.1,
+          "bank": 708.79
         }
       ]
     },
@@ -212,7 +212,7 @@
           "trainer": "D Skelton",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "H Fry",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "D Skelton",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "S Dow",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "N Dooly",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "O Murphy",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "W P Mullins",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -428,7 +428,7 @@
           "trainer": "Mrs M Rowley",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "M Appleby",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "K Bailey & M Nicholls",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "W P Mullins",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "Jack Jones",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "A Watson",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -620,7 +620,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -644,7 +644,7 @@
           "trainer": "J & T Gosden",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -668,7 +668,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -692,7 +692,7 @@
           "trainer": "G Tutty",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -716,7 +716,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -740,7 +740,7 @@
           "trainer": "J G Portman",
           "pos": 0,
           "res": null,
-          "stake": 0.3,
+          "stake": 0.5,
           "profit": null,
           "bank": null
         }
@@ -750,27 +750,27 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 5,
-    "won": 3,
+    "settled": 8,
+    "won": 4,
     "placed": 1,
-    "lost": 1,
+    "lost": 3,
     "nr": 2,
-    "pending": 24
+    "pending": 21
   },
-  "staked": 9.0,
-  "returned": 10.5,
-  "profit": 1.5,
+  "staked": 13.5,
+  "returned": 14.4,
+  "profit": 0.9,
   "bank": {
     "start": 707.89,
-    "end": 709.39,
-    "next_stake": 0.3,
+    "end": 708.79,
+    "next_stake": 0.5,
     "ladder": [
-      1,
       2,
-      2
+      2,
+      3
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 709.39
+    "season_end": 708.79
   }
 }
