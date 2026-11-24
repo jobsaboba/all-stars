@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T17:01:20+0000",
+  "updated": "2026-11-24T17:31:20+0000",
   "races": [
     {
       "time": "11:56",
@@ -594,11 +594,11 @@
           "odds": "13/8",
           "jockey": "Hollie Doyle",
           "trainer": "A Watson",
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 1.4,
-          "profit": null,
-          "bank": null
+          "profit": -1.4,
+          "bank": 705.69
         }
       ]
     },
@@ -620,7 +620,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.6,
           "profit": null,
           "bank": null
         }
@@ -644,7 +644,7 @@
           "trainer": "J & T Gosden",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.6,
           "profit": null,
           "bank": null
         }
@@ -668,7 +668,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.6,
           "profit": null,
           "bank": null
         }
@@ -692,7 +692,7 @@
           "trainer": "G Tutty",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.6,
           "profit": null,
           "bank": null
         }
@@ -716,7 +716,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.6,
           "profit": null,
           "bank": null
         }
@@ -740,7 +740,7 @@
           "trainer": "J G Portman",
           "pos": 0,
           "res": null,
-          "stake": 1.4,
+          "stake": 1.6,
           "profit": null,
           "bank": null
         }
@@ -750,20 +750,20 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 22,
+    "settled": 23,
     "won": 8,
     "placed": 5,
-    "lost": 9,
+    "lost": 10,
     "nr": 2,
-    "pending": 7
+    "pending": 6
   },
-  "staked": 22.2,
-  "returned": 21.4,
-  "profit": -0.8,
+  "staked": 23.4,
+  "returned": 21.2,
+  "profit": -2.2,
   "bank": {
     "start": 707.89,
-    "end": 707.09,
-    "next_stake": 1.4,
+    "end": 705.69,
+    "next_stake": 1.6,
     "ladder": [
       2,
       3,
@@ -771,10 +771,11 @@
       6,
       8,
       10,
-      12
+      12,
+      14
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 707.09
+    "season_end": 705.69
   }
 }
