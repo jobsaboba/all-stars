@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T18:31:38+0000",
+  "updated": "2026-11-24T19:31:37+0000",
   "races": [
     {
       "time": "11:56",
@@ -666,11 +666,11 @@
           "odds": "4/1",
           "jockey": "Callum Hutchinson",
           "trainer": "A M Balding",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 2.0,
-          "profit": null,
-          "bank": null
+          "profit": -2.0,
+          "bank": 701.24
         }
       ]
     },
@@ -692,7 +692,7 @@
           "trainer": "G Tutty",
           "pos": 0,
           "res": null,
-          "stake": 2.0,
+          "stake": 2.2,
           "profit": null,
           "bank": null
         }
@@ -716,7 +716,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 2.0,
+          "stake": 2.2,
           "profit": null,
           "bank": null
         }
@@ -740,7 +740,7 @@
           "trainer": "J G Portman",
           "pos": 0,
           "res": null,
-          "stake": 2.0,
+          "stake": 2.2,
           "profit": null,
           "bank": null
         }
@@ -750,20 +750,20 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 25,
+    "settled": 26,
     "won": 8,
     "placed": 6,
-    "lost": 11,
+    "lost": 12,
     "nr": 2,
-    "pending": 4
+    "pending": 3
   },
-  "staked": 25.2,
-  "returned": 20.55,
-  "profit": -4.65,
+  "staked": 25.8,
+  "returned": 19.15,
+  "profit": -6.65,
   "bank": {
     "start": 707.89,
-    "end": 703.24,
-    "next_stake": 2.0,
+    "end": 701.24,
+    "next_stake": 2.2,
     "ladder": [
       2,
       3,
@@ -774,10 +774,11 @@
       12,
       14,
       16,
-      18
+      18,
+      20
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 703.24
+    "season_end": 701.24
   }
 }
