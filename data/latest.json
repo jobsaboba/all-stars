@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T15:01:18+0000",
+  "updated": "2026-11-24T15:31:16+0000",
   "races": [
     {
       "time": "11:56",
@@ -426,11 +426,11 @@
           "odds": "11/4",
           "jockey": "Toby Wynne",
           "trainer": "Mrs M Rowley",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.6,
-          "profit": null,
-          "bank": null
+          "profit": -0.13,
+          "bank": 709.24
         }
       ]
     },
@@ -450,11 +450,11 @@
           "odds": "9/2",
           "jockey": "Jason Watson",
           "trainer": "M Appleby",
-          "pos": 0,
-          "res": null,
-          "stake": 0.6,
-          "profit": null,
-          "bank": null
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.8,
+          "profit": -0.8,
+          "bank": 708.44
         }
       ]
     },
@@ -499,10 +499,10 @@
           "jockey": "Aamilah Aswat",
           "trainer": "K Bailey & M Nicholls",
           "pos": 0,
-          "res": null,
-          "stake": 0.6,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 1.0,
+          "profit": -1.0,
+          "bank": 707.44
         }
       ]
     },
@@ -524,7 +524,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "W P Mullins",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "Jack Jones",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "A Watson",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -620,7 +620,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -644,7 +644,7 @@
           "trainer": "J & T Gosden",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -668,7 +668,7 @@
           "trainer": "A M Balding",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -692,7 +692,7 @@
           "trainer": "G Tutty",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -716,7 +716,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -740,7 +740,7 @@
           "trainer": "J G Portman",
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -750,28 +750,31 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 16,
+    "settled": 19,
     "won": 7,
-    "placed": 3,
-    "lost": 6,
+    "placed": 4,
+    "lost": 8,
     "nr": 2,
-    "pending": 13
+    "pending": 10
   },
-  "staked": 14.0,
-  "returned": 15.48,
-  "profit": 1.48,
+  "staked": 20.6,
+  "returned": 20.15,
+  "profit": -0.45,
   "bank": {
     "start": 707.89,
-    "end": 709.37,
-    "next_stake": 0.6,
+    "end": 707.44,
+    "next_stake": 1.2,
     "ladder": [
       2,
       2,
       3,
-      4
+      4,
+      6,
+      8,
+      10
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 709.37
+    "season_end": 707.44
   }
 }
