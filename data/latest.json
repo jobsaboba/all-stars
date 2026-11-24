@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T19:31:37+0000",
+  "updated": "2026-11-24T20:01:46+0000",
   "races": [
     {
       "time": "11:56",
@@ -690,11 +690,11 @@
           "odds": "16/1",
           "jockey": "Laura Coughlan",
           "trainer": "G Tutty",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 2.2,
-          "profit": null,
-          "bank": null
+          "profit": -2.2,
+          "bank": 699.04
         }
       ]
     },
@@ -716,7 +716,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 2.2,
+          "stake": 2.4,
           "profit": null,
           "bank": null
         }
@@ -740,7 +740,7 @@
           "trainer": "J G Portman",
           "pos": 0,
           "res": null,
-          "stake": 2.2,
+          "stake": 2.4,
           "profit": null,
           "bank": null
         }
@@ -750,20 +750,20 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 26,
+    "settled": 27,
     "won": 8,
     "placed": 6,
-    "lost": 12,
+    "lost": 13,
     "nr": 2,
-    "pending": 3
+    "pending": 2
   },
-  "staked": 25.8,
-  "returned": 19.15,
-  "profit": -6.65,
+  "staked": 26.2,
+  "returned": 17.35,
+  "profit": -8.85,
   "bank": {
     "start": 707.89,
-    "end": 701.24,
-    "next_stake": 2.2,
+    "end": 699.04,
+    "next_stake": 2.4,
     "ladder": [
       2,
       3,
@@ -775,10 +775,11 @@
       14,
       16,
       18,
-      20
+      20,
+      22
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 701.24
+    "season_end": 699.04
   }
 }
