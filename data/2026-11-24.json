@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T20:01:46+0000",
+  "updated": "2026-11-24T20:31:45+0000",
   "races": [
     {
       "time": "11:56",
@@ -714,11 +714,11 @@
           "odds": "10/3",
           "jockey": "Cieren Fallon",
           "trainer": "W J Haggas",
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 2.4,
-          "profit": null,
-          "bank": null
+          "profit": -2.4,
+          "bank": 696.64
         }
       ]
     },
@@ -740,7 +740,7 @@
           "trainer": "J G Portman",
           "pos": 0,
           "res": null,
-          "stake": 2.4,
+          "stake": 2.6,
           "profit": null,
           "bank": null
         }
@@ -750,20 +750,20 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 27,
+    "settled": 28,
     "won": 8,
     "placed": 6,
-    "lost": 13,
+    "lost": 14,
     "nr": 2,
-    "pending": 2
+    "pending": 1
   },
-  "staked": 26.2,
-  "returned": 17.35,
-  "profit": -8.85,
+  "staked": 26.4,
+  "returned": 15.15,
+  "profit": -11.25,
   "bank": {
     "start": 707.89,
-    "end": 699.04,
-    "next_stake": 2.4,
+    "end": 696.64,
+    "next_stake": 2.6,
     "ladder": [
       2,
       3,
@@ -776,10 +776,11 @@
       16,
       18,
       20,
-      22
+      22,
+      24
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 699.04
+    "season_end": 696.64
   }
 }
