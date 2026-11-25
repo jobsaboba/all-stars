@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T15:31:26+0000",
+  "updated": "2026-11-25T16:01:27+0000",
   "races": [
     {
       "time": "12:16",
@@ -439,11 +439,11 @@
           "odds": "5/1",
           "jockey": "Billy Lee",
           "trainer": "W McCreery",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 4.2,
-          "profit": null,
-          "bank": null
+          "profit": 0.0,
+          "bank": 715.78
         }
       ]
     },
@@ -465,7 +465,7 @@
           "trainer": "J & T Gosden",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -489,7 +489,7 @@
           "trainer": "A McGuinness",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -513,7 +513,7 @@
           "trainer": "G Boughey",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -537,7 +537,7 @@
           "trainer": "Dylan Cunha",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -561,7 +561,7 @@
           "trainer": "D Marnane",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -585,7 +585,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -609,7 +609,7 @@
           "trainer": "Robson Aguiar",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -633,7 +633,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -657,7 +657,7 @@
           "trainer": "M Dods",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -681,7 +681,7 @@
           "trainer": "Ciaran Murphy",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -705,7 +705,7 @@
           "trainer": "E A L Dunlop",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -729,7 +729,7 @@
           "trainer": "S Hanlon",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -753,7 +753,7 @@
           "trainer": "E Walker",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -777,7 +777,7 @@
           "trainer": "Miss J A Camacho",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -801,7 +801,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -825,7 +825,7 @@
           "trainer": "Harry Charlton",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -849,7 +849,7 @@
           "trainer": "Ollie Sangster",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -873,7 +873,7 @@
           "trainer": "J & S Quinn",
           "pos": 0,
           "res": null,
-          "stake": 4.2,
+          "stake": 4.4,
           "profit": null,
           "bank": null
         }
@@ -883,25 +883,26 @@
   "score": {
     "picks": 37,
     "races": 36,
-    "settled": 16,
+    "settled": 17,
     "won": 8,
-    "placed": 3,
+    "placed": 4,
     "lost": 5,
     "nr": 2,
-    "pending": 19
+    "pending": 18
   },
-  "staked": 136.9,
-  "returned": 158.64,
+  "staked": 140.5,
+  "returned": 162.24,
   "profit": 21.74,
   "bank": {
     "start": 694.04,
     "end": 715.78,
-    "next_stake": 4.2,
+    "next_stake": 4.4,
     "ladder": [
       2,
       38,
       39,
-      40
+      40,
+      42
     ],
     "unit": 0.1,
     "season_start": 10.0,
