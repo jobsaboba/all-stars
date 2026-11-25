@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T18:31:33+0000",
+  "updated": "2026-11-25T19:01:27+0000",
   "races": [
     {
       "time": "12:16",
@@ -775,11 +775,11 @@
           "odds": "10/1",
           "jockey": "Tom Kiely-Marshall",
           "trainer": "Miss J A Camacho",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": -0.7,
+          "bank": 769.61
         }
       ]
     },
@@ -801,7 +801,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.8,
           "profit": null,
           "bank": null
         }
@@ -825,7 +825,7 @@
           "trainer": "Harry Charlton",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.8,
           "profit": null,
           "bank": null
         }
@@ -849,7 +849,7 @@
           "trainer": "Ollie Sangster",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.8,
           "profit": null,
           "bank": null
         }
@@ -873,7 +873,7 @@
           "trainer": "J & S Quinn",
           "pos": 0,
           "res": null,
-          "stake": 0.7,
+          "stake": 0.8,
           "profit": null,
           "bank": null
         }
@@ -883,20 +883,20 @@
   "score": {
     "picks": 37,
     "races": 36,
-    "settled": 30,
+    "settled": 31,
     "won": 10,
     "placed": 7,
-    "lost": 13,
+    "lost": 14,
     "nr": 2,
-    "pending": 5
+    "pending": 4
   },
-  "staked": 116.6,
-  "returned": 192.87,
-  "profit": 76.27,
+  "staked": 117.0,
+  "returned": 192.57,
+  "profit": 75.57,
   "bank": {
     "start": 694.04,
-    "end": 770.31,
-    "next_stake": 0.7,
+    "end": 769.61,
+    "next_stake": 0.8,
     "ladder": [
       1,
       2,
@@ -904,10 +904,11 @@
       3,
       4,
       5,
-      6
+      6,
+      7
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 770.31
+    "season_end": 769.61
   }
 }
