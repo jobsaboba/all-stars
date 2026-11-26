@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T17:01:32+0000",
+  "updated": "2026-11-26T17:31:30+0000",
   "races": [
     {
       "time": "11:54",
@@ -463,11 +463,11 @@
           "odds": "6/4",
           "jockey": "Callum Shepherd",
           "trainer": "Jack Jones",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 5.0,
-          "profit": null,
-          "bank": null
+          "profit": -1.75,
+          "bank": 751.57
         }
       ]
     },
@@ -489,7 +489,7 @@
           "trainer": "Joey Ramsden",
           "pos": 0,
           "res": null,
-          "stake": 5.0,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -513,7 +513,7 @@
           "trainer": "M D I Usher",
           "pos": 0,
           "res": null,
-          "stake": 5.0,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -537,7 +537,7 @@
           "trainer": "Ian Williams",
           "pos": 0,
           "res": null,
-          "stake": 5.0,
+          "stake": 5.7,
           "profit": null,
           "bank": null
         }
@@ -547,20 +547,20 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 18,
+    "settled": 19,
     "won": 4,
-    "placed": 4,
+    "placed": 5,
     "lost": 10,
     "nr": 1,
-    "pending": 4
+    "pending": 3
   },
-  "staked": 60.5,
-  "returned": 45.88,
-  "profit": -14.62,
+  "staked": 62.6,
+  "returned": 46.23,
+  "profit": -16.37,
   "bank": {
     "start": 767.94,
-    "end": 753.32,
-    "next_stake": 5.0,
+    "end": 751.57,
+    "next_stake": 5.7,
     "ladder": [
       7,
       9,
@@ -570,10 +570,11 @@
       29,
       29,
       36,
-      43
+      43,
+      50
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 753.32
+    "season_end": 751.57
   }
 }
