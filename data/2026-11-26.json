@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T15:31:38+0000",
+  "updated": "2026-11-26T16:02:28+0000",
   "races": [
     {
       "time": "11:54",
@@ -354,11 +354,11 @@
           "odds": "6/1",
           "jockey": "Danny McMenamin",
           "trainer": "N G Richards",
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 2.2,
-          "profit": null,
-          "bank": null
+          "profit": -2.2,
+          "bank": 764.92
         }
       ]
     },
@@ -378,11 +378,11 @@
           "odds": "9/4",
           "jockey": "James Robottom",
           "trainer": "A J Honeyball",
-          "pos": 0,
-          "res": null,
-          "stake": 2.2,
-          "profit": null,
-          "bank": null
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.9,
+          "profit": -0.8,
+          "bank": 761.22
         },
         {
           "rank": 2,
@@ -391,11 +391,11 @@
           "odds": "12/1",
           "jockey": "Dylan Johnston",
           "trainer": "J Tizzard",
-          "pos": 0,
-          "res": null,
-          "stake": 2.2,
-          "profit": null,
-          "bank": null
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.9,
+          "profit": -2.9,
+          "bank": 761.22
         }
       ]
     },
@@ -415,11 +415,11 @@
           "odds": "7/2",
           "jockey": "Kevin Healy",
           "trainer": "A McNamara",
-          "pos": 0,
-          "res": null,
-          "stake": 2.2,
-          "profit": null,
-          "bank": null
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.6,
+          "profit": -3.6,
+          "bank": 757.62
         }
       ]
     },
@@ -441,7 +441,7 @@
           "trainer": "A W Carroll",
           "pos": 0,
           "res": null,
-          "stake": 2.2,
+          "stake": 4.3,
           "profit": null,
           "bank": null
         }
@@ -465,7 +465,7 @@
           "trainer": "Jack Jones",
           "pos": 0,
           "res": null,
-          "stake": 2.2,
+          "stake": 4.3,
           "profit": null,
           "bank": null
         }
@@ -489,7 +489,7 @@
           "trainer": "Joey Ramsden",
           "pos": 0,
           "res": null,
-          "stake": 2.2,
+          "stake": 4.3,
           "profit": null,
           "bank": null
         }
@@ -513,7 +513,7 @@
           "trainer": "M D I Usher",
           "pos": 0,
           "res": null,
-          "stake": 2.2,
+          "stake": 4.3,
           "profit": null,
           "bank": null
         }
@@ -537,7 +537,7 @@
           "trainer": "Ian Williams",
           "pos": 0,
           "res": null,
-          "stake": 2.2,
+          "stake": 4.3,
           "profit": null,
           "bank": null
         }
@@ -547,28 +547,32 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 13,
+    "settled": 17,
     "won": 4,
-    "placed": 3,
-    "lost": 6,
+    "placed": 4,
+    "lost": 9,
     "nr": 1,
-    "pending": 9
+    "pending": 5
   },
-  "staked": 44.4,
-  "returned": 43.58,
-  "profit": -0.82,
+  "staked": 57.7,
+  "returned": 47.38,
+  "profit": -10.32,
   "bank": {
     "start": 767.94,
-    "end": 767.12,
-    "next_stake": 2.2,
+    "end": 757.62,
+    "next_stake": 4.3,
     "ladder": [
       7,
       9,
       12,
-      15
+      15,
+      22,
+      29,
+      29,
+      36
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 767.12
+    "season_end": 757.62
   }
 }
