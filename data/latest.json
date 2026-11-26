@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T18:02:56+0000",
+  "updated": "2026-11-26T20:31:49+0000",
   "races": [
     {
       "time": "11:54",
@@ -511,11 +511,11 @@
           "odds": "10/1",
           "jockey": "Rose Dawes",
           "trainer": "M D I Usher",
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 6.4,
-          "profit": null,
-          "bank": null
+          "profit": -6.4,
+          "bank": 739.47
         }
       ]
     },
@@ -537,7 +537,7 @@
           "trainer": "Ian Williams",
           "pos": 0,
           "res": null,
-          "stake": 6.4,
+          "stake": 7.1,
           "profit": null,
           "bank": null
         }
@@ -547,20 +547,20 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 20,
+    "settled": 21,
     "won": 4,
     "placed": 5,
-    "lost": 11,
+    "lost": 12,
     "nr": 1,
-    "pending": 2
+    "pending": 1
   },
-  "staked": 64.0,
-  "returned": 41.93,
-  "profit": -22.07,
+  "staked": 64.7,
+  "returned": 36.23,
+  "profit": -28.47,
   "bank": {
     "start": 767.94,
-    "end": 745.87,
-    "next_stake": 6.4,
+    "end": 739.47,
+    "next_stake": 7.1,
     "ladder": [
       7,
       9,
@@ -572,10 +572,11 @@
       36,
       43,
       50,
-      57
+      57,
+      64
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 745.87
+    "season_end": 739.47
   }
 }
