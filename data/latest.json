@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T05:20:01+0000",
+  "updated": "2026-11-26T13:01:07+0000",
   "races": [
     {
       "time": "11:54",
@@ -18,11 +18,11 @@
           "odds": "10/11",
           "jockey": "Tristan Durrell",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 1.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.71,
+          "bank": 768.65
         }
       ]
     },
@@ -43,10 +43,10 @@
           "jockey": "Phillip Enright",
           "trainer": "O McKiernan",
           "pos": 0,
-          "res": null,
-          "stake": 1.3,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 767.55
         }
       ]
     },
@@ -66,11 +66,11 @@
           "odds": "15/2",
           "jockey": "Danny McMenamin",
           "trainer": "J Parkinson & S Smith",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 1.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.33,
+          "bank": 767.88
         }
       ]
     },
@@ -92,7 +92,7 @@
           "trainer": "M Comley",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -116,7 +116,7 @@
           "trainer": "H De Bromhead",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -140,7 +140,7 @@
           "trainer": "A M Hales",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -164,7 +164,7 @@
           "trainer": "B Pauling",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -188,7 +188,7 @@
           "trainer": "W P Mullins",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -212,7 +212,7 @@
           "trainer": "D Pipe",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "O Murphy",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "W P Mullins",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "T R Gretton",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "D Skelton",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "W P Mullins",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "N G Richards",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "A J Honeyball",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         },
@@ -393,7 +393,7 @@
           "trainer": "J Tizzard",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -417,7 +417,7 @@
           "trainer": "A McNamara",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -441,7 +441,7 @@
           "trainer": "A W Carroll",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -465,7 +465,7 @@
           "trainer": "Jack Jones",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -489,7 +489,7 @@
           "trainer": "Joey Ramsden",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -513,7 +513,7 @@
           "trainer": "M D I Usher",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -537,7 +537,7 @@
           "trainer": "Ian Williams",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.2,
           "profit": null,
           "bank": null
         }
@@ -547,33 +547,30 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 0,
-    "won": 0,
-    "placed": 0,
-    "lost": 0,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
     "nr": 0,
-    "pending": 23
+    "pending": 20
   },
-  "staked": 29.9,
-  "returned": 29.9,
-  "profit": 0,
+  "staked": 27.7,
+  "returned": 27.64,
+  "profit": -0.06,
   "bank": {
     "start": 767.94,
-    "end": 767.94,
-    "next_stake": 1.3,
+    "end": 767.88,
+    "next_stake": 1.2,
     "ladder": [
-      2,
-      2,
       3,
       4,
       5,
       6,
       7,
-      9,
-      11
+      9
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 767.94
+    "season_end": 767.88
   }
 }
