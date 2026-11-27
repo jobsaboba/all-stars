@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T15:31:10+0000",
+  "updated": "2026-11-27T16:00:58+0000",
   "races": [
     {
       "time": "11:40",
@@ -210,11 +210,11 @@
           "odds": "7/1",
           "jockey": "Paul O'Brien",
           "trainer": "Harry Derham",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 9.8,
-          "profit": null,
-          "bank": null
+          "profit": -9.8,
+          "bank": 725.98
         }
       ]
     },
@@ -234,11 +234,11 @@
           "odds": "13/2",
           "jockey": "Harry Davies",
           "trainer": "James Owen",
-          "pos": 0,
-          "res": null,
-          "stake": 9.8,
-          "profit": null,
-          "bank": null
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 12.0,
+          "profit": -12.0,
+          "bank": 713.98
         }
       ]
     },
@@ -260,7 +260,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "R M Beckett",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "S Crisford",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "Robson Aguiar",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "M Fahey",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "Daniel McLoughlin",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "A McGuinness",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "P Lawlor",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "J C McConnell",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "J P Murtagh",
           "pos": 0,
           "res": null,
-          "stake": 9.8,
+          "stake": 14.2,
           "profit": null,
           "bank": null
         }
@@ -534,20 +534,20 @@
   "score": {
     "picks": 22,
     "races": 22,
-    "settled": 8,
+    "settled": 10,
     "won": 3,
     "placed": 3,
-    "lost": 2,
+    "lost": 4,
     "nr": 1,
-    "pending": 13
+    "pending": 11
   },
-  "staked": 197.8,
-  "returned": 201.21,
-  "profit": 3.41,
+  "staked": 248.4,
+  "returned": 230.01,
+  "profit": -18.39,
   "bank": {
     "start": 732.37,
-    "end": 735.78,
-    "next_stake": 9.8,
+    "end": 713.98,
+    "next_stake": 14.2,
     "ladder": [
       22,
       29,
@@ -557,10 +557,12 @@
       50,
       57,
       64,
-      76
+      76,
+      98,
+      120
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 735.78
+    "season_end": 713.98
   }
 }
