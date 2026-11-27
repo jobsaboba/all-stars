@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T19:00:56+0000",
+  "updated": "2026-11-27T19:31:05+0000",
   "races": [
     {
       "time": "11:40",
@@ -450,11 +450,11 @@
           "odds": "6/1",
           "jockey": "Camillus Byrne",
           "trainer": "A McGuinness",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 20.6,
-          "profit": null,
-          "bank": null
+          "profit": 74.16,
+          "bank": 813.63
         }
       ]
     },
@@ -476,7 +476,7 @@
           "trainer": "P Lawlor",
           "pos": 0,
           "res": null,
-          "stake": 20.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "J C McConnell",
           "pos": 0,
           "res": null,
-          "stake": 20.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "J P Murtagh",
           "pos": 0,
           "res": null,
-          "stake": 20.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -534,33 +534,27 @@
   "score": {
     "picks": 22,
     "races": 22,
-    "settled": 17,
-    "won": 6,
+    "settled": 18,
+    "won": 7,
     "placed": 4,
     "lost": 7,
     "nr": 1,
-    "pending": 4
+    "pending": 3
   },
-  "staked": 277.9,
-  "returned": 285.0,
-  "profit": 7.1,
+  "staked": 217.0,
+  "returned": 298.26,
+  "profit": 81.26,
   "bank": {
     "start": 732.37,
-    "end": 739.47,
-    "next_stake": 20.6,
+    "end": 813.63,
+    "next_stake": 0.3,
     "ladder": [
-      36,
-      43,
-      50,
-      57,
-      64,
-      76,
-      105,
-      134,
-      170
+      1,
+      2,
+      2
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 739.47
+    "season_end": 813.63
   }
 }
