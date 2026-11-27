@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T14:30:51+0000",
+  "updated": "2026-11-27T15:00:58+0000",
   "races": [
     {
       "time": "11:40",
@@ -90,11 +90,11 @@
           "odds": "5/1",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 7.6,
-          "profit": null,
-          "bank": null
+          "profit": 0.0,
+          "bank": 744.96
         }
       ]
     },
@@ -114,11 +114,11 @@
           "odds": "9/4",
           "jockey": "George Bass",
           "trainer": "J Channon",
-          "pos": 0,
-          "res": null,
-          "stake": 7.6,
-          "profit": null,
-          "bank": null
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 8.8,
+          "profit": -8.8,
+          "bank": 736.16
         }
       ]
     },
@@ -138,11 +138,11 @@
           "odds": "11/10",
           "jockey": "R P McLernon",
           "trainer": "C E Longsdon",
-          "pos": 0,
-          "res": null,
-          "stake": 7.6,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 10.0,
+          "profit": 6.6,
+          "bank": 742.76
         }
       ]
     },
@@ -164,7 +164,7 @@
           "trainer": "Harry Derham",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -188,7 +188,7 @@
           "trainer": "L Russell & M Scudamore",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -212,7 +212,7 @@
           "trainer": "Harry Derham",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "R M Beckett",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "S Crisford",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "Robson Aguiar",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "M Fahey",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "Daniel McLoughlin",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "A McGuinness",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "P Lawlor",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "J C McConnell",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "J P Murtagh",
           "pos": 0,
           "res": null,
-          "stake": 7.6,
+          "stake": 9.1,
           "profit": null,
           "bank": null
         }
@@ -534,22 +534,21 @@
   "score": {
     "picks": 22,
     "races": 22,
-    "settled": 3,
-    "won": 2,
-    "placed": 1,
-    "lost": 0,
+    "settled": 6,
+    "won": 3,
+    "placed": 2,
+    "lost": 1,
     "nr": 1,
-    "pending": 18
+    "pending": 15
   },
-  "staked": 161.1,
-  "returned": 173.69,
-  "profit": 12.59,
+  "staked": 187.2,
+  "returned": 197.59,
+  "profit": 10.39,
   "bank": {
     "start": 732.37,
-    "end": 744.96,
-    "next_stake": 7.6,
+    "end": 742.76,
+    "next_stake": 9.1,
     "ladder": [
-      12,
       15,
       22,
       29,
@@ -558,10 +557,11 @@
       43,
       50,
       57,
-      64
+      64,
+      76
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 744.96
+    "season_end": 742.76
   }
 }
