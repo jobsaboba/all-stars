@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T15:00:58+0000",
+  "updated": "2026-11-27T15:31:10+0000",
   "races": [
     {
       "time": "11:40",
@@ -162,11 +162,11 @@
           "odds": "3/1",
           "jockey": "J J Slevin",
           "trainer": "Harry Derham",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 9.1,
-          "profit": null,
-          "bank": null
+          "profit": -9.1,
+          "bank": 733.66
         }
       ]
     },
@@ -186,11 +186,11 @@
           "odds": "7/1",
           "jockey": "Jack Power",
           "trainer": "L Russell & M Scudamore",
-          "pos": 0,
-          "res": null,
-          "stake": 9.1,
-          "profit": null,
-          "bank": null
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 10.6,
+          "profit": 2.12,
+          "bank": 735.78
         }
       ]
     },
@@ -212,7 +212,7 @@
           "trainer": "Harry Derham",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -236,7 +236,7 @@
           "trainer": "James Owen",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -260,7 +260,7 @@
           "trainer": "C Appleby",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -284,7 +284,7 @@
           "trainer": "R M Beckett",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -308,7 +308,7 @@
           "trainer": "S Crisford",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -332,7 +332,7 @@
           "trainer": "Robson Aguiar",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -356,7 +356,7 @@
           "trainer": "M Fahey",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -380,7 +380,7 @@
           "trainer": "D M Simcock",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -404,7 +404,7 @@
           "trainer": "Daniel McLoughlin",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "A McGuinness",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "P Lawlor",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "J C McConnell",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "J P Murtagh",
           "pos": 0,
           "res": null,
-          "stake": 9.1,
+          "stake": 9.8,
           "profit": null,
           "bank": null
         }
@@ -534,22 +534,21 @@
   "score": {
     "picks": 22,
     "races": 22,
-    "settled": 6,
+    "settled": 8,
     "won": 3,
-    "placed": 2,
-    "lost": 1,
+    "placed": 3,
+    "lost": 2,
     "nr": 1,
-    "pending": 15
+    "pending": 13
   },
-  "staked": 187.2,
-  "returned": 197.59,
-  "profit": 10.39,
+  "staked": 197.8,
+  "returned": 201.21,
+  "profit": 3.41,
   "bank": {
     "start": 732.37,
-    "end": 742.76,
-    "next_stake": 9.1,
+    "end": 735.78,
+    "next_stake": 9.8,
     "ladder": [
-      15,
       22,
       29,
       29,
@@ -562,6 +561,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 742.76
+    "season_end": 735.78
   }
 }
