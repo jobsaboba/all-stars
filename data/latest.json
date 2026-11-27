@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T18:01:00+0000",
+  "updated": "2026-11-27T18:30:58+0000",
   "races": [
     {
       "time": "11:40",
@@ -354,11 +354,11 @@
           "odds": "9/2",
           "jockey": "Ben Coen",
           "trainer": "M Fahey",
-          "pos": 0,
-          "res": null,
+          "pos": 6,
+          "res": "LOSE",
           "stake": 16.3,
-          "profit": null,
-          "bank": null
+          "profit": -16.3,
+          "bank": 726.91
         }
       ]
     },
@@ -378,11 +378,11 @@
           "odds": "13/8",
           "jockey": "Rowan Scott",
           "trainer": "D M Simcock",
-          "pos": 0,
-          "res": null,
-          "stake": 16.3,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 19.2,
+          "profit": 18.72,
+          "bank": 745.63
         }
       ]
     },
@@ -404,7 +404,7 @@
           "trainer": "Daniel McLoughlin",
           "pos": 0,
           "res": null,
-          "stake": 16.3,
+          "stake": 17.0,
           "profit": null,
           "bank": null
         }
@@ -452,7 +452,7 @@
           "trainer": "A McGuinness",
           "pos": 0,
           "res": null,
-          "stake": 16.3,
+          "stake": 17.0,
           "profit": null,
           "bank": null
         }
@@ -476,7 +476,7 @@
           "trainer": "P Lawlor",
           "pos": 0,
           "res": null,
-          "stake": 16.3,
+          "stake": 17.0,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "J C McConnell",
           "pos": 0,
           "res": null,
-          "stake": 16.3,
+          "stake": 17.0,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "J P Murtagh",
           "pos": 0,
           "res": null,
-          "stake": 16.3,
+          "stake": 17.0,
           "profit": null,
           "bank": null
         }
@@ -534,22 +534,21 @@
   "score": {
     "picks": 22,
     "races": 22,
-    "settled": 14,
-    "won": 5,
+    "settled": 16,
+    "won": 6,
     "placed": 3,
-    "lost": 6,
+    "lost": 7,
     "nr": 1,
-    "pending": 7
+    "pending": 5
   },
-  "staked": 257.1,
-  "returned": 267.94,
-  "profit": 10.84,
+  "staked": 263.5,
+  "returned": 276.76,
+  "profit": 13.26,
   "bank": {
     "start": 732.37,
-    "end": 743.21,
-    "next_stake": 16.3,
+    "end": 745.63,
+    "next_stake": 17.0,
     "ladder": [
-      29,
       36,
       43,
       50,
@@ -561,6 +560,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 743.21
+    "season_end": 745.63
   }
 }
