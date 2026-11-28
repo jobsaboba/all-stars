@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-28T18:01:17+0000",
+  "updated": "2026-11-28T18:31:04+0000",
   "races": [
     {
       "time": "11:40",
@@ -714,11 +714,11 @@
           "odds": "4/1",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 1.1,
-          "profit": null,
-          "bank": null
+          "profit": -1.1,
+          "bank": 812.93
         }
       ]
     },
@@ -740,7 +740,7 @@
           "trainer": "S Crisford",
           "pos": 0,
           "res": null,
-          "stake": 1.1,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -764,7 +764,7 @@
           "trainer": "R Varian",
           "pos": 0,
           "res": null,
-          "stake": 1.1,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -788,7 +788,7 @@
           "trainer": "R Menzies",
           "pos": 0,
           "res": null,
-          "stake": 1.1,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -812,7 +812,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 1.1,
+          "stake": 1.3,
           "profit": null,
           "bank": null
         }
@@ -822,30 +822,31 @@
   "score": {
     "picks": 34,
     "races": 34,
-    "settled": 27,
+    "settled": 28,
     "won": 8,
     "placed": 8,
-    "lost": 11,
+    "lost": 12,
     "nr": 2,
-    "pending": 5
+    "pending": 4
   },
-  "staked": 24.9,
-  "returned": 26.5,
-  "profit": 1.6,
+  "staked": 25.7,
+  "returned": 26.2,
+  "profit": 0.5,
   "bank": {
     "start": 812.43,
-    "end": 814.03,
-    "next_stake": 1.1,
+    "end": 812.93,
+    "next_stake": 1.3,
     "ladder": [
       2,
       3,
       4,
       5,
       7,
-      9
+      9,
+      11
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 814.03
+    "season_end": 812.93
   }
 }
