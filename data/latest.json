@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-28T18:31:04+0000",
+  "updated": "2026-11-28T19:02:32+0000",
   "races": [
     {
       "time": "11:40",
@@ -738,11 +738,11 @@
           "odds": "9/2",
           "jockey": "Harry Davies",
           "trainer": "S Crisford",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 1.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.06,
+          "bank": 812.87
         }
       ]
     },
@@ -764,7 +764,7 @@
           "trainer": "R Varian",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.5,
           "profit": null,
           "bank": null
         }
@@ -788,7 +788,7 @@
           "trainer": "R Menzies",
           "pos": 0,
           "res": null,
-          "stake": 1.3,
+          "stake": 1.5,
           "profit": null,
           "bank": null
         }
@@ -811,8 +811,8 @@
           "jockey": "Cieren Fallon",
           "trainer": "W J Haggas",
           "pos": 0,
-          "res": null,
-          "stake": 1.3,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -822,20 +822,20 @@
   "score": {
     "picks": 34,
     "races": 34,
-    "settled": 28,
+    "settled": 29,
     "won": 8,
-    "placed": 8,
+    "placed": 9,
     "lost": 12,
-    "nr": 2,
-    "pending": 4
+    "nr": 3,
+    "pending": 2
   },
-  "staked": 25.7,
-  "returned": 26.2,
-  "profit": 0.5,
+  "staked": 24.8,
+  "returned": 25.24,
+  "profit": 0.44,
   "bank": {
     "start": 812.43,
-    "end": 812.93,
-    "next_stake": 1.3,
+    "end": 812.87,
+    "next_stake": 1.5,
     "ladder": [
       2,
       3,
@@ -843,10 +843,11 @@
       5,
       7,
       9,
-      11
+      11,
+      13
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 812.93
+    "season_end": 812.87
   }
 }
