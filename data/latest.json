@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-28T14:31:04+0000",
+  "updated": "2026-11-28T15:01:03+0000",
   "races": [
     {
       "time": "11:40",
@@ -402,11 +402,11 @@
           "odds": "10/1",
           "jockey": "Ryan Mania",
           "trainer": "Harry Derham",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 1.6,
-          "profit": null,
-          "bank": null
+          "profit": 0.8,
+          "bank": 812.45
         }
       ]
     },
@@ -426,11 +426,11 @@
           "odds": "15/8",
           "jockey": "Paul Townend",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
-          "stake": 1.6,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.2,
+          "profit": 1.35,
+          "bank": 813.8
         }
       ]
     },
@@ -450,11 +450,11 @@
           "odds": "6/1",
           "jockey": "Jack Stenhouse",
           "trainer": "P Hobbs & J White",
-          "pos": 0,
-          "res": null,
-          "stake": 1.6,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 1.08,
+          "bank": 814.88
         }
       ]
     },
@@ -476,7 +476,7 @@
           "trainer": "Jamie Snowden",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -500,7 +500,7 @@
           "trainer": "F O'Brien",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -524,7 +524,7 @@
           "trainer": "A McNamara",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -548,7 +548,7 @@
           "trainer": "D Skelton",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -572,7 +572,7 @@
           "trainer": "David Dennis",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -596,7 +596,7 @@
           "trainer": "J & A O'Neill",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -620,7 +620,7 @@
           "trainer": "G Elliott",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -644,7 +644,7 @@
           "trainer": "J & T Gosden",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -668,7 +668,7 @@
           "trainer": "G Boughey",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -692,7 +692,7 @@
           "trainer": "Eve Johnson Houghton",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -716,7 +716,7 @@
           "trainer": "J S Goldie",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -740,7 +740,7 @@
           "trainer": "S Crisford",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -764,7 +764,7 @@
           "trainer": "R Varian",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -788,7 +788,7 @@
           "trainer": "R Menzies",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -812,7 +812,7 @@
           "trainer": "W J Haggas",
           "pos": 0,
           "res": null,
-          "stake": 1.6,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
@@ -822,28 +822,27 @@
   "score": {
     "picks": 34,
     "races": 34,
-    "settled": 14,
-    "won": 4,
-    "placed": 4,
+    "settled": 17,
+    "won": 6,
+    "placed": 5,
     "lost": 6,
     "nr": 2,
-    "pending": 18
+    "pending": 15
   },
-  "staked": 38.3,
-  "returned": 37.52,
-  "profit": -0.78,
+  "staked": 17.1,
+  "returned": 19.55,
+  "profit": 2.45,
   "bank": {
     "start": 812.43,
-    "end": 811.65,
-    "next_stake": 1.6,
+    "end": 814.88,
+    "next_stake": 0.3,
     "ladder": [
-      4,
-      4,
-      8,
-      12
+      1,
+      2,
+      2
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 811.65
+    "season_end": 814.88
   }
 }
