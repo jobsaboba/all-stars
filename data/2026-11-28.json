@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-28T19:02:32+0000",
+  "updated": "2026-11-28T19:31:13+0000",
   "races": [
     {
       "time": "11:40",
@@ -762,11 +762,11 @@
           "odds": "5/1",
           "jockey": "Ross Coakley",
           "trainer": "R Varian",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 1.5,
-          "profit": null,
-          "bank": null
+          "profit": -1.5,
+          "bank": 811.37
         }
       ]
     },
@@ -788,7 +788,7 @@
           "trainer": "R Menzies",
           "pos": 0,
           "res": null,
-          "stake": 1.5,
+          "stake": 1.7,
           "profit": null,
           "bank": null
         }
@@ -822,20 +822,20 @@
   "score": {
     "picks": 34,
     "races": 34,
-    "settled": 29,
+    "settled": 30,
     "won": 8,
     "placed": 9,
-    "lost": 12,
+    "lost": 13,
     "nr": 3,
-    "pending": 2
+    "pending": 1
   },
-  "staked": 24.8,
-  "returned": 25.24,
-  "profit": 0.44,
+  "staked": 25.0,
+  "returned": 23.94,
+  "profit": -1.06,
   "bank": {
     "start": 812.43,
-    "end": 812.87,
-    "next_stake": 1.5,
+    "end": 811.37,
+    "next_stake": 1.7,
     "ladder": [
       2,
       3,
@@ -844,10 +844,11 @@
       7,
       9,
       11,
-      13
+      13,
+      15
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 812.87
+    "season_end": 811.37
   }
 }
